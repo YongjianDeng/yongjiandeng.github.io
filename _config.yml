@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Yongjian Deng 邓勇舰"
+  name             : "Yongjian Deng \n 邓勇舰"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "Beijing University of Technology"
   location         : "Beijing, China"
