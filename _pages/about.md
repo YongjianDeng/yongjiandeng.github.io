@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-DENG, Yongjian (邓勇舰) is currently an Assistant Professor at the Beijing University of Technology.  
+DENG, Yongjian (邓勇舰) is currently an Assistant Professor at the Beijing University of Technology.   
 
 My research interest includes neural machine translation and computer vision. I have published more than 20 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=gKXu0XgAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> google scholar citations.
 
