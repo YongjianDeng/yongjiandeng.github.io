@@ -17,9 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-DENG, Yongjian (邓勇舰) is currently an Assistant Professor at the Beijing University of Technology.   
-
-My research interest includes neural machine translation and computer vision. I have published more than 20 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=gKXu0XgAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> google scholar citations.
+DENG, Yongjian (邓勇舰) is currently an Assistant Professor at the Beijing University of Technology. 
+He received the B.Eng. degree from the China University of Petroleum (Beijing) in 2016, the M.Sc. degree from the University of Florida in 2018, and the Ph.D. degree from the City University of Hong Kong in 2021. Since 2021, he has been an Assistant Professor in the College of Computer Science, Beijing University of Technology. From 2022 to 2024, he was also a Senior Research Associate with the Shenzhen Research Institute, City University of Hong Kong. His research interests include **Bio-Inspired Vision**, **Computational Photography** and **Robot Vision**. He has published 20+ papers at the top international AI conferences/journals.
 
 
 # 🔥 News
