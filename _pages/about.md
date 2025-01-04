@@ -21,7 +21,7 @@ DENG, Yongjian (邓勇舰) is currently an Assistant Professor at the Beijing Un
 He received the B.Eng. degree from the China University of Petroleum (Beijing) in 2016, the M.Sc. degree from the University of Florida in 2018, and the Ph.D. degree from the City University of Hong Kong in 2021. Since 2021, he has been an Assistant Professor in the College of Computer Science, Beijing University of Technology. From 2022 to 2024, he was also a Senior Research Associate with the Shenzhen Research Institute, City University of Hong Kong. His research interests include **Bio-Inspired Vision**, **Computational Photography** and **Robot Vision**. He has published 20+ papers at the top international AI conferences/journals.
 
 
-# 🔥 News
+<!-- # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
@@ -54,4 +54,4 @@ He received the B.Eng. degree from the China University of Petroleum (Beijing) i
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
