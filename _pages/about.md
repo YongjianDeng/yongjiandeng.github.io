@@ -27,7 +27,5 @@ redirect_from:
 
 <!-- {% include_relative includes/nvrlab.md %} -->
 
-<!-- {% include_relative includes/misc.md %} -->
-
 # 💻 NVRLab
-- Under construction.
+### Under construction.
