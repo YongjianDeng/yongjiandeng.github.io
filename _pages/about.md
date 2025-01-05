@@ -21,9 +21,9 @@ redirect_from:
 
 {% include_relative includes/news.md %}
 
-{% include_relative includes/pub_short.md %}
+{% include_relative includes/publications.md %}
 
-{% include_relative includes/lab.md %}
+{% include_relative includes/laboratory.md %}
 
 {% include_relative includes/misc.md %}
 
