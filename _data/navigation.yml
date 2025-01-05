@@ -7,7 +7,7 @@ main:
   #   url: "/#-news"
 
   - title: "Lab"
-    url: "/#-lab"
+    url: "/#mylab"
 
   # - title: "Publications"
   #   url: "/#-publications"
