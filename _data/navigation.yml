@@ -12,8 +12,8 @@ main:
   - title: "NVRLab"
     url: "/#-nvrlab"
 
-  - title: "Misc"
-    url: "/#-misc"
+  # - title: "Misc"
+  #   url: "/#-misc"
 
   # - title: "Honors and Awards"
   #   url: "/#-honors-and-awards"

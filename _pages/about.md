@@ -25,7 +25,7 @@ redirect_from:
 
 {% include_relative includes/nvrlab.md %}
 
-{% include_relative includes/misc.md %}
+<!-- {% include_relative includes/misc.md %} -->
 
 <!-- # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
