@@ -25,7 +25,5 @@ redirect_from:
 
 {% include_relative includes/services.md %}
 
-<!-- {% include_relative includes/nvrlab.md %} -->
-
 # 💻 NVRLab
 ### Under construction.

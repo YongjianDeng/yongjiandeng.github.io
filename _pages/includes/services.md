@@ -1,13 +1,5 @@
 # 💼 Services
 
-<!-- ### Journal Reviewer
-
-* [IEEE Transactions on Neural Networks and Learning Systems (TNNLS)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385)
-
-### Program Committee and/or Reviewer for Conferences and Workshops
-
-* [ICCV 2023](https://iccv2023.thecvf.com/) -->
-
 ### Conference Reviewer
 
 * IEEE/CVF Conference on Computer Vision and Pattern Recognition [(CVPR)](https://ieeexplore.ieee.org/xpl/conhome/1000147/all-proceedings)
