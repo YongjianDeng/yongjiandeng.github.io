@@ -23,7 +23,7 @@ redirect_from:
 
 {% include_relative includes/publications.md %}
 
-{% include_relative includes/laboratory.md %}
+{% include_relative includes/nvrlab.md %}
 
 {% include_relative includes/misc.md %}
 
