@@ -1,7 +1,9 @@
 # 📝 Publications
 
 ^: Supervised student
+
 †: Equal contribution
+
 ✉️: Corresponding author
 
 ### Peer-reviewed Conference
