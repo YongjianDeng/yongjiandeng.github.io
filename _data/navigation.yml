@@ -3,11 +3,11 @@ main:
   - title: "About Me"
     url: "/#about-me"
 
-  # - title: "News"
-  #   url: "/#-news"
+  - title: "News"
+    url: "/#-news"
 
-  - title: "Lab"
-    url: "/#mylab"
+  # - title: "Lab"
+  #   url: "/#mylab"
 
   # - title: "Publications"
   #   url: "/#-publications"

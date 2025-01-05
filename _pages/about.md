@@ -19,6 +19,8 @@ redirect_from:
 
 {% include_relative includes/personalIntro.md %}
 
+{% include_relative includes/news.md %}
+
 
 <!-- # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
