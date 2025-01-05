@@ -1,8 +1,7 @@
 ---
-layout: default
+layout: compress
 permalink: /nvrlab/
-title: ""
-excerpt: ""
+title: "NVRLab"
 author_profile: true
 ---
 
