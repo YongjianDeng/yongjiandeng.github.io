@@ -1,11 +1,8 @@
 ---
-permalink: /
+permalink: /nvrlab/
 title: ""
 excerpt: ""
 author_profile: true
-redirect_from: 
-  - /nvrlab/
-  - /nvrlab.html
 ---
 
 {% if site.google_scholar_stats_use_cdn %}
