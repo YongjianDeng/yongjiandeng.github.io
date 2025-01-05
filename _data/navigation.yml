@@ -12,8 +12,11 @@ main:
   - title: "Services"
     url: "/#-services"
 
+  # - title: "NVRLab"
+  #   url: "/#-nvrlab"
+
   - title: "NVRLab"
-    url: "/#-nvrlab"
+    url: "/nvrlab/"
 
   # - title: "Misc"
   #   url: "/#-misc"

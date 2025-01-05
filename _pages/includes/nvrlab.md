@@ -1,3 +1,0 @@
-# 🏗️ NVRLab
-
-### Under construction.
