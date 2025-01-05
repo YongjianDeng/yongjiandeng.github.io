@@ -1,6 +1,8 @@
 # 📝 Publications
 
-^: Supervised student `space` †: Equal contribution `space` ✉️: Corresponding author
+^: Supervised student  
+†: Equal contribution  
+✉️: Corresponding author
 
 ### Peer-reviewed Conference
 
