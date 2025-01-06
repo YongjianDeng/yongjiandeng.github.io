@@ -18,7 +18,7 @@
 
 <a href="" target="_blank"><img src="https://img.shields.io/badge/ICRA-2024-red?style=flat-square"></a>	B. Yao^, **<u>Yongjian Deng✉️</u>**, Y. Liu, H. Chen, and Z. Yang, &quot;**SAM-Event-Adapter: Adapting Segment Anything Model for Event-RGB Semantic Segmentation**&quot;. In *IEEE International Conference on Robotics and Automation (ICRA)*.
 
-<a href="" target="_blank"><img src="https://img.shields.io/badge/IEEE_TCSVT-2024-blue?style=flat-square"></a>	B. Xie, **<u>Yongjian Deng†</u>**, Z. Shao, Q. Xu and Y. Li, &quot;**MVF-Net: A Multi-View Fusion Network for Event-Based Object Classification**&quot;. In *IEEE Transactions on Circuits and Systems for Video Technology (IEEE TCSVT)*.
+<a href="" target="_blank"><img src="https://img.shields.io/badge/IEEE_TCSVT-2024-blue?style=flat-square"></a>	B. Xie, **<u>Yongjian Deng†</u>**, Z. Shao, Q. Xu and Y. Li, &quot;**Event voxel set transformer for spatiotemporal representation learning on event streams**&quot;. In *IEEE Transactions on Circuits and Systems for Video Technology (IEEE TCSVT)*.
 
 <a href="" target="_blank"><img src="https://img.shields.io/badge/NeurIPS-2024-red?style=flat-square"></a>	F. Shen, C. Li, Y. Geng, **<u>Yongjian Deng</u>**, H. Chen, &quot;**Prune and Repaint: Content-Aware Image Retargeting for any Ratio**&quot;. In *The Thirty-eighth Annual Conference on Neural Information Processing Systems (NeurIPS)*.
 
