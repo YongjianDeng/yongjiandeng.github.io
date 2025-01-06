@@ -1,8 +1,6 @@
 # 📝 Publications
 
-^: Supervised student  
-†: Equal contribution  
-✉️: Corresponding author
+^: Supervised student  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;†: Equal contribution &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✉️: Corresponding author
 
 ### Peer-reviewed Articles
 
