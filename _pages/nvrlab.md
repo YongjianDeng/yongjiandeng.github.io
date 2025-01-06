@@ -3,7 +3,7 @@ layout: archive
 permalink: /nvrlab/
 title: ""
 excerpt: ""
-author_profile: True
+author_profile: False
 ---
 
 # 🏗️ NVRLab
