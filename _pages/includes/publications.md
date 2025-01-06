@@ -26,11 +26,11 @@
 
 <a href="" target="_blank"><img src="https://img.shields.io/badge/NeurIPS-2024-red?style=flat-square"></a>	H. Chen, Y. Zhu and **<u>Yongjian Deng</u>**, &quot;**A Trajectory-aware Spatio-temporal Graph for Video Salient Object Ranking**&quot;. In *The Thirty-eighth Annual Conference on Neural Information Processing Systems (NeurIPS)*.
 
-<a href="" target="_blank"><img src="https://img.shields.io/badge/CE-2024-blue?style=flat-square"></a>	F. Shen, C. Li, Y. Geng, **<u>Yongjian Deng</u>** and H. Chen, &quot;**Disentangled Cross-Modal Transformer for RGB-D Salient Object Detection and Beyond**&quot;. In *IEEE Transactions on Image Processing (IEEE TIP)*.
+<a href="" target="_blank"><img src="https://img.shields.io/badge/IEEE_TIP-2024-blue?style=flat-square"></a>	F. Shen, C. Li, Y. Geng, **<u>Yongjian Deng</u>** and H. Chen, &quot;**Disentangled Cross-Modal Transformer for RGB-D Salient Object Detection and Beyond**&quot;. In *IEEE Transactions on Image Processing (IEEE TIP)*.
 
 <a href="" target="_blank"><img src="https://img.shields.io/badge/IEEE_TCCN-2024-blue?style=flat-square"></a>	Y. Wang, X. Zhang, Y. Lai, Z. Zhao and **<u>Yongjian Deng✉️</u>**, &quot;**Hifoots: A Highly Efficient DDoS Attack Detection Scheme Deployed in Smart IoT Homes**&quot;. In *IEEE Transactions on Cognitive Communications and Networking (IEEE TCCN)*.
 
-<a href="" target="_blank"><img src="https://img.shields.io/badge/IEEE_TCCN-2024-blue?style=flat-square"></a>	H. Wang^, **<u>Yongjian Deng✉️</u>** and T. Liu, &quot;**基于DINO先验的混合特征面部表情识别模型**&quot;. In *计算机工程*.
+<a href="" target="_blank"><img src="https://img.shields.io/badge/CE-2024-blue?style=flat-square"></a>	H. Wang^, **<u>Yongjian Deng✉️</u>** and T. Liu, &quot;**基于DINO先验的混合特征面部表情识别模型**&quot;. In *计算机工程*.
 
 
 <!-- % -----------2023------------- -->
