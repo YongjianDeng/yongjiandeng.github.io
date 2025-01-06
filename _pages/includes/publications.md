@@ -10,14 +10,10 @@
 
 <!-- <a href="https://dl.acm.org/doi/10.1145/3664647.3680958" target="_blank"><img src="https://img.shields.io/badge/CVPR-2025-red?style=flat-square"></a> Can Cui†, <u>Siteng Huang</u>†, Wenxuan Song, Pengxiang Ding, Zhang Min, Donglin Wang, &quot;**ProFD: Prompt-Guided Feature Disentangling for Occluded Person Re-Identification**&quot;. In *Proceedings of the 32nd ACM International Conference on Multimedia*. [[arXiv](https://arxiv.org/abs/2409.20081)] [[github](https://github.com/Cuixxx/ProFD)] [[OpenReview](https://openreview.net/forum?id=o2axlPlXYY)] -->
 
-<a href="https://www.computer.org/csdl/proceedings-article/cvpr/2024/530000i477/20hRju0bDWM" target="_blank"><img src="https://img.shields.io/badge/CVPR-2024-red?style=flat-square"></a> 
-1.	Y. Liu^, **<u>Yongjian Deng✉️</u>**, H. Chen, and Y. Li, &quot;**Video Frame Interpolation via Direct Synthesis with the Event-based Reference**&quot;. In *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)*.
+<a href="https://www.computer.org/csdl/proceedings-article/cvpr/2024/530000i477/20hRju0bDWM" target="_blank"><img src="https://img.shields.io/badge/CVPR-2024-red?style=flat-square"></a>	Y. Liu^, **<u>Yongjian Deng✉️</u>**, H. Chen, and Y. Li, &quot;**Video Frame Interpolation via Direct Synthesis with the Event-based Reference**&quot;. In *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)*.
 
-<a href="" target="_blank"><img src="https://img.shields.io/badge/AAAI-2024-red?style=flat-square"></a> 
-2.	**<u>Yongjian Deng</u>**, H. Chen, and Y. Li, &quot;**A Dynamic Graph CNN with Cross-Representation Distillation for Event-Based Recognition**&quot;. In *The AAAI Conference on Artificial Intelligence (AAAI)*.
+<a href="" target="_blank"><img src="https://img.shields.io/badge/AAAI-2024-red?style=flat-square"></a>	**<u>Yongjian Deng</u>**, H. Chen, and Y. Li, &quot;**A Dynamic Graph CNN with Cross-Representation Distillation for Event-Based Recognition**&quot;. In *The AAAI Conference on Artificial Intelligence (AAAI)*.
 
-<a href="" target="_blank"><img src="https://img.shields.io/badge/CVPR-2022-red?style=flat-square"></a> 
-3.	**<u>Yongjian Deng</u>**, H. Chen, H. Liu and Y. Li, &quot;**A Voxel Graph CNN for Object Classification with Event Cameras**&quot;. In *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)*.
+<a href="" target="_blank"><img src="https://img.shields.io/badge/CVPR-2022-red?style=flat-square"></a>	**<u>Yongjian Deng</u>**, H. Chen, H. Liu and Y. Li, &quot;**A Voxel Graph CNN for Object Classification with Event Cameras**&quot;. In *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)*.
 
-<a href="" target="_blank"><img src="https://img.shields.io/badge/TIP-2021-red?style=flat-square"></a> 
-4.	**<u>Yongjian Deng✉️</u>**, H. Chen, H. Liu and Y. Li, &quot;**Learning from Images: A Distillation Learning Framework for Event Cameras**&quot;. In *IEEE Transactions on Image Processing (IEEE TIP)*.
+<a href="" target="_blank"><img src="https://img.shields.io/badge/TIP-2021-red?style=flat-square"></a>	**<u>Yongjian Deng✉️</u>**, H. Chen, H. Liu and Y. Li, &quot;**Learning from Images: A Distillation Learning Framework for Event Cameras**&quot;. In *IEEE Transactions on Image Processing (IEEE TIP)*.
