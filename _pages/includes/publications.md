@@ -30,7 +30,7 @@
 
 <a href="" target="_blank"><img src="https://img.shields.io/badge/IEEE_TCCN-2024-blue?style=flat-square"></a>	Y. Wang, X. Zhang, Y. Lai, Z. Zhao and **<u>Yongjian Deng✉️</u>**, &quot;**Hifoots: A Highly Efficient DDoS Attack Detection Scheme Deployed in Smart IoT Homes**&quot;. In *IEEE Transactions on Cognitive Communications and Networking (IEEE TCCN)*.
 
-<a href="" target="_blank"><img src="https://img.shields.io/badge/IEEE_TCCN-2024-blue?style=flat-square"></a>	H. Wang^, **<u>Yongjian Deng</u>** and T. Liu, &quot;**基于DINO先验的混合特征面部表情识别模型**&quot;. In *计算机工程*.
+<a href="" target="_blank"><img src="https://img.shields.io/badge/IEEE_TCCN-2024-blue?style=flat-square"></a>	H. Wang^, **<u>Yongjian Deng✉️</u>** and T. Liu, &quot;**基于DINO先验的混合特征面部表情识别模型**&quot;. In *计算机工程*.
 
 
 <!-- % -----------2023------------- -->
