@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: single
 permalink: /nvrlab/
 title: "NVRLab"
 author_profile: true
