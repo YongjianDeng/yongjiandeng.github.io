@@ -1,5 +1,5 @@
 ---
-# layout: jumpPage
+layout: jumpPage
 permalink: /nvrlab/
 title: ""
 excerpt: ""
