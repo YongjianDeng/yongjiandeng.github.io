@@ -16,4 +16,4 @@
 
 <a href="" target="_blank"><img src="https://img.shields.io/badge/CVPR-2022-red?style=flat-square"></a>	**<u>Yongjian Deng</u>**, H. Chen, H. Liu and Y. Li, &quot;**A Voxel Graph CNN for Object Classification with Event Cameras**&quot;. In *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)*.
 
-<a href="" target="_blank"><img src="https://img.shields.io/badge/TIP-2021-red?style=flat-square"></a>	**<u>Yongjian Deng</u>**, H. Chen, H. Liu and Y. Li, &quot;**Learning from Images: A Distillation Learning Framework for Event Cameras**&quot;. In *IEEE Transactions on Image Processing (IEEE TIP)*.
+<a href="" target="_blank"><img src="https://img.shields.io/badge/IEEE_TIP-2021-blue?style=flat-square"></a>	**<u>Yongjian Deng</u>**, H. Chen, H. Liu and Y. Li, &quot;**Learning from Images: A Distillation Learning Framework for Event Cameras**&quot;. In *IEEE Transactions on Image Processing (IEEE TIP)*.
