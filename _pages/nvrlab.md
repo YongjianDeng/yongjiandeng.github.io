@@ -1,7 +1,7 @@
 ---
-layout: archive
+layout: single
 permalink: /nvrlab/
-title: "NVRLab"
+title: ""
 author_profile: true
 ---
 
