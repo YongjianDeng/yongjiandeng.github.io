@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /nvrlab/
-# title: ""
+title: ""
 # excerpt: ""
 author_profile: False
 ---
