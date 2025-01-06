@@ -1,5 +1,5 @@
 ---
-# layout: archive
+layout: archive
 permalink: /nvrlab/
 # title: ""
 # excerpt: ""
