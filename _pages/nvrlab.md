@@ -1,10 +1,10 @@
-<!-- ---
-layout: archive
+---
+# layout: archive
 permalink: /nvrlab/
-title: ""
-excerpt: ""
-author_profile: False
---- -->
+# title: ""
+# excerpt: ""
+# author_profile: False
+---
 
 # 🏗️ NVRLab
 
