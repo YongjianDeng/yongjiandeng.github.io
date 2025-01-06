@@ -1,8 +1,8 @@
 ---
-layout: single
+layout: default
 permalink: /nvrlab/
 title: ""
-author_profile: true
+author_profile: False
 ---
 
 # 🏗️ NVRLab
