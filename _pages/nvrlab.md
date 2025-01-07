@@ -1,9 +1,9 @@
 ---
-layout: jumpPage
+layout: archive
 permalink: /nvrlab/
 title: "🏗️ NVRLab"
 excerpt: "🏗️ NVRLab"
-author_profile: True
+author_profile: False
 ---
 
 # 🏗️ NVRLab
