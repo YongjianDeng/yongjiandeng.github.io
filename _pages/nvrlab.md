@@ -14,17 +14,6 @@ author_profile: False
 
 ### Graduate Students
 
-#### 2023
-    Yuhan Liu,
-    YAO, Bowen
-
-#### 2024
-    WANG, Haojia
-    LI, Ke
-    MA, Haoxiang
-
-#### 2025
-
 ### Undergraduate Students
 
 ### Alumni
