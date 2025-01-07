@@ -3,7 +3,7 @@ layout: jumpPage
 permalink: /nvrlab/
 title: "🏗️ NVRLab"
 excerpt: ""
-author_profile: True
+author_profile: False
 ---
 
 # 🏗️ NVRLab
