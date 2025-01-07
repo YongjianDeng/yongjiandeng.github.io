@@ -10,10 +10,10 @@ author_profile: False
 
 ## Under construction.
 
-#### Projects
+### Projects
 
-#### Graduate Students
+### Graduate Students
 
-#### Undergraduate Students
+### Undergraduate Students
 
-#### Alumni
+### Alumni
