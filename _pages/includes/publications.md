@@ -1,6 +1,6 @@
 # 📝 Publications
 
-^: Supervised student  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;†: Equal contribution &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✉️: Corresponding author
+^: Supervised student  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;†: Equal contribution &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`✉️`: Corresponding author
 
 ### Peer-reviewed Articles
 
@@ -12,11 +12,11 @@
 
 
 <!-- % -----------2024------------- -->
-<a href="https://www.computer.org/csdl/proceedings-article/cvpr/2024/530000i477/20hRju0bDWM" target="_blank"><img src="https://img.shields.io/badge/CVPR-2024-red?style=flat-square"></a>	Y. Liu^, **<u>Yongjian Deng✉️</u>**, H. Chen, and Y. Li, &quot;**Video Frame Interpolation via Direct Synthesis with the Event-based Reference**&quot;. In *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)*.
+<a href="https://www.computer.org/csdl/proceedings-article/cvpr/2024/530000i477/20hRju0bDWM" target="_blank"><img src="https://img.shields.io/badge/CVPR-2024-red?style=flat-square"></a>	Y. Liu^, **<u>Yongjian Deng`✉️`</u>**, H. Chen, and Y. Li, &quot;**Video Frame Interpolation via Direct Synthesis with the Event-based Reference**&quot;. In *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)*.
 
 <a href="" target="_blank"><img src="https://img.shields.io/badge/AAAI-2024-red?style=flat-square"></a>	**<u>Yongjian Deng</u>**, H. Chen, and Y. Li, &quot;**A Dynamic Graph CNN with Cross-Representation Distillation for Event-Based Recognition**&quot;. In *The AAAI Conference on Artificial Intelligence (AAAI)*.
 
-<a href="" target="_blank"><img src="https://img.shields.io/badge/ICRA-2024-red?style=flat-square"></a>	B. Yao^, **<u>Yongjian Deng✉️</u>**, Y. Liu, H. Chen, and Z. Yang, &quot;**SAM-Event-Adapter: Adapting Segment Anything Model for Event-RGB Semantic Segmentation**&quot;. In *IEEE International Conference on Robotics and Automation (ICRA)*.
+<a href="" target="_blank"><img src="https://img.shields.io/badge/ICRA-2024-red?style=flat-square"></a>	B. Yao^, **<u>Yongjian Deng`✉️`**, Y. Liu, H. Chen, and Z. Yang, &quot;**SAM-Event-Adapter: Adapting Segment Anything Model for Event-RGB Semantic Segmentation**&quot;. In *IEEE International Conference on Robotics and Automation (ICRA)*.
 
 <a href="" target="_blank"><img src="https://img.shields.io/badge/IEEE_TCSVT-2024-blue?style=flat-square"></a>	B. Xie, **<u>Yongjian Deng†</u>**, Z. Shao, Q. Xu and Y. Li, &quot;**Event voxel set transformer for spatiotemporal representation learning on event streams**&quot;. In *IEEE Transactions on Circuits and Systems for Video Technology (IEEE TCSVT)*.
 
@@ -28,7 +28,7 @@
 
 <a href="" target="_blank"><img src="https://img.shields.io/badge/IEEE_TCCN-2024-blue?style=flat-square"></a>	Y. Wang, X. Zhang, Y. Lai, Z. Zhao and **<u>Yongjian Deng</u>**, &quot;**Hifoots: A Highly Efficient DDoS Attack Detection Scheme Deployed in Smart IoT Homes**&quot;. In *IEEE Transactions on Cognitive Communications and Networking (IEEE TCCN)*.
 
-<a href="" target="_blank"><img src="https://img.shields.io/badge/CE-2024-blue?style=flat-square"></a>	H. Wang^, **<u>Yongjian Deng✉️</u>** and T. Liu, &quot;**基于DINO先验的混合特征面部表情识别模型**&quot;. In *计算机工程*.
+<a href="" target="_blank"><img src="https://img.shields.io/badge/CE-2024-blue?style=flat-square"></a>	H. Wang^, **<u>Yongjian Deng`✉️`</u>** and T. Liu, &quot;**基于DINO先验的混合特征面部表情识别模型**&quot;. In *计算机工程*.
 
 
 <!-- % -----------2023------------- -->
