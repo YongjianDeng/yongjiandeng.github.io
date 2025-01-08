@@ -18,7 +18,7 @@
 
 <a href="" target="_blank"><img src="https://img.shields.io/badge/ICRA-2024-red?style=flat-square"></a>	B. Yao^, **<u>Yongjian Deng✉️</u>**, Y. Liu, H. Chen, and Z. Yang, &quot;**SAM-Event-Adapter: Adapting Segment Anything Model for Event-RGB Semantic Segmentation**&quot;. In *IEEE International Conference on Robotics and Automation (ICRA)*.
 
-<a href="" target="_blank"><img src="https://img.shields.io/badge/IEEE_TCSVT-2024-blue?style=flat-square"></a>	B. Xie, **<u>Yongjian Deng†</u>**, Z. Shao, Q. Xu and Y. Li, &quot;**Event voxel set transformer for spatiotemporal representation learning on event streams**&quot;. In *IEEE Transactions on Circuits and Systems for Video Technology (IEEE TCSVT)*.
+<a href="" target="_blank"><img src="https://img.shields.io/badge/IEEE_TCSVT-2024-blue?style=flat-square"></a>	B. Xie†, **<u>Yongjian Deng</u>**†, Z. Shao, Q. Xu and Y. Li, &quot;**Event voxel set transformer for spatiotemporal representation learning on event streams**&quot;. In *IEEE Transactions on Circuits and Systems for Video Technology (IEEE TCSVT)*.
 
 <a href="" target="_blank"><img src="https://img.shields.io/badge/NeurIPS-2024-red?style=flat-square"></a>	F. Shen, C. Li, Y. Geng, **<u>Yongjian Deng</u>**, H. Chen, &quot;**Prune and Repaint: Content-Aware Image Retargeting for any Ratio**&quot;. In *The Thirty-eighth Annual Conference on Neural Information Processing Systems (NeurIPS)*.
 
@@ -46,7 +46,7 @@
 
 <a href="" target="_blank"><img src="https://img.shields.io/badge/IEEE_TCSVT-2022-blue?style=flat-square"></a>	**<u>Yongjian Deng</u>**, H. Chen and Y. Li, &quot;**MVF-Net: A Multi-View Fusion Network for Event-Based Object Classification**&quot;. In *IEEE Transactions on Circuits and Systems for Video Technology (IEEE TCSVT)*.
 
-<a href="" target="_blank"><img src="https://img.shields.io/badge/IEEE_RAL-2022-blue?style=flat-square"></a>	B. Xie, **<u>Yongjian Deng†</u>**, Z. Shao, H. Liu and Y. Li, &quot;**Volumetric Multi-View Based Graph CNN for Object Classification with Event Cameras**&quot;. In *IEEE Robotics and Automation Letters (IEEE RA-L) with ICRA option*.
+<a href="" target="_blank"><img src="https://img.shields.io/badge/IEEE_RAL-2022-blue?style=flat-square"></a>	B. Xie†, **<u>Yongjian Deng</u>**†, Z. Shao, H. Liu and Y. Li, &quot;**Volumetric Multi-View Based Graph CNN for Object Classification with Event Cameras**&quot;. In *IEEE Robotics and Automation Letters (IEEE RA-L) with ICRA option*.
 
  <!-- -----------2021------------- -->
 <a href="" target="_blank"><img src="https://img.shields.io/badge/IEEE_TIP-2021-blue?style=flat-square"></a>	**<u>Yongjian Deng</u>**, H. Chen, H. Liu and Y. Li, &quot;**Learning from Images: A Distillation Learning Framework for Event Cameras**&quot;. In *IEEE Transactions on Image Processing (IEEE TIP)*.
