@@ -1,7 +1,7 @@
 ---
-layout: jumpPage
+layout: JumpPage
 permalink: /nvrlab/
-title: ""
+title: "🏗️ NVRLab"
 excerpt: ""
 author_profile: False
 ---
@@ -10,10 +10,10 @@ author_profile: False
 
 ## Under construction.
 
-### Projects
+<!-- ### Projects
 
 ### Graduate Students
 
 ### Undergraduate Students
 
-### Alumni
+### Alumni -->
