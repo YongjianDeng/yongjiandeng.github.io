@@ -2,7 +2,7 @@
 
 ^: Supervised student  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;†: Equal contribution &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ✉️: Corresponding author
 
-### Peer-reviewed Articles
+## Peer-reviewed Articles
 
 <!-- <img src="https://img.shields.io/badge/AAAI-2025-blue?style=flat-square"> Han Zhao, Min Zhang, Wei Zhao, Pengxiang Ding, <u>Siteng Huang</u>, Donglin Wang, &quot;**Cobra: Extending Mamba to Multi-Modal Large Language Model for Efficient Inference**&quot;. In *Proceedings of the 39th AAAI Conference on Artificial Intelligence*. [[arXiv](https://arxiv.org/abs/2403.14520)] [[pdf](https://arxiv.org/pdf/2403.14520.pdf)] [[project page](https://sites.google.com/view/cobravlm)] [[Chinese intro (Zhihu)](https://zhuanlan.zhihu.com/p/688544752)] [[github](https://github.com/h-zhao1997/cobra)] [[demo](https://huggingface.co/spaces/han1997/cobra)] [[video (Youtube)](https://www.youtube.com/watch?v=i0sTdi_yVbc)] [[机器之心](https://mp.weixin.qq.com/s/KuuNTL_jBRsyhub5_6aXpQ)] [[Twitter@AK](https://twitter.com/_akhaliq/status/1771033002748837953?t=6S4PVZXg6GcXqi_-PFzipw&s=19)] <a class='paper_citations_badges' data='mhpkWSYAAAAJ:Se3iqnhoufwC' href="" target="_blank"></a> <a href="https://github.com/h-zhao1997/cobra" target="_blank"><img src="https://img.shields.io/github/stars/h-zhao1997/cobra?style=social"></a> -->
 
@@ -73,4 +73,4 @@
 
 <a href="" target="_blank"><img src="https://img.shields.io/badge/IEEE_TIP-2020-blue?style=flat-square"></a>	H. Chen, **<u>Yongjian Deng</u>**, Y. Li, T. Hung, and G. Lin, &quot;**RGBD Salient Object Detection via Disentangled Cross-Modal Fusion**&quot;. In *IEEE Transactions on Image Processing (IEEE TIP)*.
 
-### Preprints
+## Preprints
