@@ -16,3 +16,5 @@
 * IEEE Transactions on Circuits and Systems for Video Technology [(TCSVT)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76)
 * IEEE Transactions on Neural Networks and Learning Systems [(TNNLS)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385)
 * Pattern Reocognition [(PR)]()
+
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=oABR0nOA2tRoY_m6lL__HUjr-WAhdWoBax55Hk3rUH4&cl=ffffff&w=a"></script>
