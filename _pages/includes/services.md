@@ -17,6 +17,4 @@
 * IEEE Transactions on Neural Networks and Learning Systems [(TNNLS)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385)
 * Pattern Reocognition [(PR)]()
 
-<!-- <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=oABR0nOA2tRoY_m6lL__HUjr-WAhdWoBax55Hk3rUH4&cl=ffffff&w=a"></script> -->
-
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=080808&w=300&t=n&d=oABR0nOA2tRoY_m6lL__HUjr-WAhdWoBax55Hk3rUH4&co=ffffff&ct=808080&cmo=3acc3a&cmn=ff5353'></script>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=080808&w=400&t=m&d=oABR0nOA2tRoY_m6lL__HUjr-WAhdWoBax55Hk3rUH4&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080'></script>
