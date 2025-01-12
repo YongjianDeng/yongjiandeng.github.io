@@ -63,7 +63,7 @@
 
 <a href="" target="_blank"><img src="https://img.shields.io/badge/IJCV-2021-blue?style=flat-square"></a>	H. Chen, Y. Li, **<u>Yongjian Deng</u>**, and G. Lin, &quot;**CNN-based RGB-D Salient Object Detection: Learn, Select, and Fuse**&quot;. In *International Journal of Computer Vision (IJCV)*.
 
-<a href="" target="_blank"><img src="https://img.shields.io/badge/CRC-2022-red?style=flat-square"></a>	**<u>Yongjian Deng</u>**, B. Xie, **<u>Yongjian Deng</u>**, Z. Shao, H. Liu, Q. Xu, and Y. Li, &quot;**A Voxel Graph CNN for Object Classification with Event Cameras**&quot;. In *2022 7th International Conference on Control, Robotics and Cybernetics (CRC)*.
+<a href="" target="_blank"><img src="https://img.shields.io/badge/CRC-2022-red?style=flat-square"></a>	B. Xie, **<u>Yongjian Deng</u>**, Z. Shao, H. Liu, Q. Xu, and Y. Li, &quot;**A Voxel Graph CNN for Object Classification with Event Cameras**&quot;. In *2022 7th International Conference on Control, Robotics and Cybernetics (CRC)*.
 
 
 
