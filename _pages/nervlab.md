@@ -1,12 +1,12 @@
 ---
 layout: JumpPage
-permalink: /nvrlab/
-title: "🏗️ NVRLab"
+permalink: /nervlab/
+title: "🏗️ NERVLab"
 excerpt: ""
 author_profile: False
 ---
 
-# 🏗️ NVRLab
+# 🏗️ NERVLab
 
 ## Under construction.
 

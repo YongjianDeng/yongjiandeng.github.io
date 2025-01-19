@@ -15,8 +15,8 @@ main:
   # - title: "NVRLab"
   #   url: "/#-nvrlab"
 
-  - title: "NVRLab"
-    url: "/nvrlab/"
+  - title: "NERVLab"
+    url: "/nervlab/"
 
   # - title: "Misc"
   #   url: "/#-misc"
