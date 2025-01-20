@@ -38,6 +38,8 @@
 
 <a href="" target="_blank"><img src="https://img.shields.io/badge/CE-2024-blue?style=flat-square"></a>	H. Wang^, **<u>Yongjian Deng✉️</u>** and T. Liu, &quot;**基于DINO先验的混合特征面部表情识别模型**&quot;. In *计算机工程*.
 
+<a href="" target="_blank"><img src="https://img.shields.io/badge/ROBIO-2024-blue?style=flat-square"></a> H. Liu, Q. Chen, Z. Liu, **<u>Yongjian Deng</u>**, Z. Zhang and Y. Li, &quot;**FSLNet: Leveraging Skeleton Cue Guided FBIC for Bionic Intelligent Surveillance Robot via Transformer**&quot;. In The *IEEE International Conference on Robotics and Biomimetics (ROBIO)*. *(**Best Poster Award Finalist**)*
+
 > **2023**
 
 <a href="" target="_blank"><img src="https://img.shields.io/badge/CVPR-2023-red?style=flat-square"></a>	C. Zhang, H. Liu, **<u>Yongjian Deng</u>**, B. Xie, Y. Li, &quot;**TokenHPE: Learning Orientation Tokens for Efficient Head Pose Estimation via Transformers**&quot;. In *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)*.
