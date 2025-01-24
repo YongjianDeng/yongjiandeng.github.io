@@ -17,8 +17,7 @@
 
 <a href="" target="_blank"><img src="https://img.shields.io/badge/AAAI-2025-red?style=flat-square"></a>	Zihao Wang^, Yiming Huang, Gengyu Lyu, Yucheng Zhao, Ziyu Zhou, Bochen Xie, Zhen Yang, **<u>Yongjian Deng✉️</u>**, &quot;**MSV-PCT: Multi-Sparse-View Enhanced Transformer Framework for Salient Object Detection in Point Clouds**&quot;. In *The AAAI Conference on Artificial Intelligence (AAAI)*.
 
-<a href="" target="_blank"><img src="https://img.shields.io/badge/IEEE_TBD-2025-blue?style=flat-square"></a>	H Meng, **<u>Yongjian Deng✉️</u>**, Q Zhong, Y Wang, Z Yang, G Lyu, **<u>Yongjian Deng✉️</u>**, &quot;**Federated Multi-View Multi-Label Classification
-**&quot;. In *IEEE Transactions on Big Data*.
+<a href="" target="_blank"><img src="https://img.shields.io/badge/IEEE_TBD-2025-blue?style=flat-square"></a>	H Meng, **<u>Yongjian Deng</u>**, Q Zhong, Y Wang, Z Yang, G Lyu, &quot;**Federated Multi-View Multi-Label Classification**&quot;. In *IEEE Transactions on Big Data*.
 
 > **2024**
 
