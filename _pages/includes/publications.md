@@ -17,6 +17,8 @@
 
 <a href="" target="_blank"><img src="https://img.shields.io/badge/AAAI-2025-red?style=flat-square"></a>	Zihao Wang^, Yiming Huang, Gengyu Lyu, Yucheng Zhao, Ziyu Zhou, Bochen Xie, Zhen Yang, **<u>Yongjian Deng✉️</u>**, &quot;**MSV-PCT: Multi-Sparse-View Enhanced Transformer Framework for Salient Object Detection in Point Clouds**&quot;. In *The AAAI Conference on Artificial Intelligence (AAAI)*.
 
+<a href="" target="_blank"><img src="https://img.shields.io/badge/IEEE_TBD-2025-blue?style=flat-square"></a>	H Meng, Y Deng, Q Zhong, Y Wang, Z Yang, G Lyu, **<u>Yongjian Deng✉️</u>**, &quot;**Federated Multi-View Multi-Label Classification
+**&quot;. In *IEEE Transactions on Big Data*.
 
 > **2024**
 
@@ -76,3 +78,11 @@
 <a href="" target="_blank"><img src="https://img.shields.io/badge/IEEE_TIP-2020-blue?style=flat-square"></a>	H. Chen, **<u>Yongjian Deng</u>**, Y. Li, T. Hung, and G. Lin, &quot;**RGBD Salient Object Detection via Disentangled Cross-Modal Fusion**&quot;. In *IEEE Transactions on Image Processing (IEEE TIP)*.
 
 ## Preprints
+
+
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Arxiv-2025-green?style=flat-square"></a>	Q Zhou, J Hou, M Yang, **<u>Yongjian Deng</u>**, Y Li, J Xiong, &quot;**Spatially-guided Temporal Aggregation for Robust Event-RGB Optical Flow Estimation**&quot;. In *Arxiv*.
+
+
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Arxiv-2024-green?style=flat-square"></a>	Q Zhou, Z Zhu, J Hou, **<u>Yongjian Deng</u>**, Y Li, J Xiong, &quot;**ResFlow: Fine-tuning Residual Optical Flow for Event-based High Temporal Resolution Motion Estimation**&quot;. In *Arxiv*.
+
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Arxiv-2024-green?style=flat-square"></a>	Y Tian, H Chen, **<u>Yongjian Deng</u>**, F Shen, K Liu, W You, Z Zhang, &quot;**EventAug: Multifaceted Spatio-Temporal Data Augmentation Methods for Event-based Learning**&quot;. In *Arxiv*.
