@@ -17,11 +17,9 @@
 
 <a href="" target="_blank"><img src="https://img.shields.io/badge/AAAI-2025-red?style=flat-square"></a>	Zihao Wang^, Yiming Huang, Gengyu Lyu, Yucheng Zhao, Ziyu Zhou, Bochen Xie, Zhen Yang, **<u>Yongjian Deng✉️</u>**, &quot;**MSV-PCT: Multi-Sparse-View Enhanced Transformer Framework for Salient Object Detection in Point Clouds**&quot;. In *The AAAI Conference on Artificial Intelligence (AAAI)*.
 
-<a href="" target="_blank"><img src="https://img.shields.io/badge/NEUCOM-2025-blue?style=flat-square"></a>	Y. Liu^, **<u>Yongjian Deng✉️</u>**, B. Xie, H. Liu, Z. Yang and Y. Li, &quot;**Neuromorphic Event-Based Recognition Boosted by Motion-Aware Learning**&quot;. In *Neurocomputing (NEUCOM)*.
-
-
 <a href="" target="_blank"><img src="https://img.shields.io/badge/ICLR-2025-red?style=flat-square"></a>	Yuena Lin, Yiyuan Wang, Gengyu Lyu, **<u>Yongjian Deng</u>**, Haichun Cai, Huibin Lin, Haobo Wang, Zhen Yang, &quot;**Enhance Multi-View Classification Through Multi-Scale Alignment and Expanded Boundary**&quot;. In *The Thirteenth International Conference on Learning Representations (ICLR)*.
 
+<a href="" target="_blank"><img src="https://img.shields.io/badge/NEUCOM-2025-blue?style=flat-square"></a>	Y. Liu^, **<u>Yongjian Deng✉️</u>**, B. Xie, H. Liu, Z. Yang and Y. Li, &quot;**Neuromorphic Event-Based Recognition Boosted by Motion-Aware Learning**&quot;. In *Neurocomputing (NEUCOM)*.
 
 <a href="" target="_blank"><img src="https://img.shields.io/badge/IEEE_TBD-2025-blue?style=flat-square"></a>	H Meng, **<u>Yongjian Deng</u>**, Q Zhong, Y Wang, Z Yang, G Lyu, &quot;**Federated Multi-View Multi-Label Classification**&quot;. In *IEEE Transactions on Big Data*.
 
@@ -33,11 +31,12 @@
 
 <a href="" target="_blank"><img src="https://img.shields.io/badge/ICRA-2024-red?style=flat-square"></a>	B. Yao^, **<u>Yongjian Deng✉️</u>**, Y. Liu, H. Chen, and Z. Yang, &quot;**SAM-Event-Adapter: Adapting Segment Anything Model for Event-RGB Semantic Segmentation**&quot;. In *IEEE International Conference on Robotics and Automation (ICRA)*.
 
-<a href="" target="_blank"><img src="https://img.shields.io/badge/IEEE_TCSVT-2024-blue?style=flat-square"></a>	B. Xie†, **<u>Yongjian Deng</u>**†, Z. Shao, Q. Xu and Y. Li, &quot;**Event voxel set transformer for spatiotemporal representation learning on event streams**&quot;. In *IEEE Transactions on Circuits and Systems for Video Technology (IEEE TCSVT)*.
 
 <a href="" target="_blank"><img src="https://img.shields.io/badge/NeurIPS-2024-red?style=flat-square"></a>	F. Shen, C. Li, Y. Geng, **<u>Yongjian Deng</u>**, H. Chen, &quot;**Prune and Repaint: Content-Aware Image Retargeting for any Ratio**&quot;. In *The Thirty-eighth Annual Conference on Neural Information Processing Systems (NeurIPS)*.
 
 <a href="" target="_blank"><img src="https://img.shields.io/badge/NeurIPS-2024-red?style=flat-square"></a>	H. Chen, Y. Zhu and **<u>Yongjian Deng</u>**, &quot;**A Trajectory-aware Spatio-temporal Graph for Video Salient Object Ranking**&quot;. In *The Thirty-eighth Annual Conference on Neural Information Processing Systems (NeurIPS)*.
+
+<a href="" target="_blank"><img src="https://img.shields.io/badge/IEEE_TCSVT-2024-blue?style=flat-square"></a>	B. Xie†, **<u>Yongjian Deng</u>**†, Z. Shao, Q. Xu and Y. Li, &quot;**Event voxel set transformer for spatiotemporal representation learning on event streams**&quot;. In *IEEE Transactions on Circuits and Systems for Video Technology (IEEE TCSVT)*.
 
 <a href="" target="_blank"><img src="https://img.shields.io/badge/IEEE_TIP-2024-blue?style=flat-square"></a>	F. Shen, C. Li, Y. Geng, **<u>Yongjian Deng</u>** and H. Chen, &quot;**Disentangled Cross-Modal Transformer for RGB-D Salient Object Detection and Beyond**&quot;. In *IEEE Transactions on Image Processing (IEEE TIP)*.
 
@@ -68,12 +67,11 @@
 
 > **2021**
 
+<a href="" target="_blank"><img src="https://img.shields.io/badge/CRC-2022-red?style=flat-square"></a>	B. Xie, **<u>Yongjian Deng</u>**, Z. Shao, H. Liu, Q. Xu, and Y. Li, &quot;**A Voxel Graph CNN for Object Classification with Event Cameras**&quot;. In *2022 7th International Conference on Control, Robotics and Cybernetics (CRC)*.
+
 <a href="" target="_blank"><img src="https://img.shields.io/badge/IEEE_TIP-2021-blue?style=flat-square"></a>	**<u>Yongjian Deng</u>**, H. Chen, H. Liu and Y. Li, &quot;**Learning from Images: A Distillation Learning Framework for Event Cameras**&quot;. In *IEEE Transactions on Image Processing (IEEE TIP)*.
 
 <a href="" target="_blank"><img src="https://img.shields.io/badge/IJCV-2021-blue?style=flat-square"></a>	H. Chen, Y. Li, **<u>Yongjian Deng</u>**, and G. Lin, &quot;**CNN-based RGB-D Salient Object Detection: Learn, Select, and Fuse**&quot;. In *International Journal of Computer Vision (IJCV)*.
-
-<a href="" target="_blank"><img src="https://img.shields.io/badge/CRC-2022-red?style=flat-square"></a>	B. Xie, **<u>Yongjian Deng</u>**, Z. Shao, H. Liu, Q. Xu, and Y. Li, &quot;**A Voxel Graph CNN for Object Classification with Event Cameras**&quot;. In *2022 7th International Conference on Control, Robotics and Cybernetics (CRC)*.
-
 
 
 > **2020**
