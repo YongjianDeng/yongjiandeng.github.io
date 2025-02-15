@@ -17,6 +17,9 @@
 
 <a href="" target="_blank"><img src="https://img.shields.io/badge/AAAI-2025-red?style=flat-square"></a>	Zihao Wang^, Yiming Huang, Gengyu Lyu, Yucheng Zhao, Ziyu Zhou, Bochen Xie, Zhen Yang, **<u>Yongjian Deng✉️</u>**, &quot;**MSV-PCT: Multi-Sparse-View Enhanced Transformer Framework for Salient Object Detection in Point Clouds**&quot;. In *The AAAI Conference on Artificial Intelligence (AAAI)*.
 
+<a href="" target="_blank"><img src="https://img.shields.io/badge/NEUCOM-2025-blue?style=flat-square"></a>	Y. Liu^, **<u>Yongjian Deng✉️</u>**, B. Xie, H. Liu, Z. Yang and Y. Li, &quot;**Neuromorphic Event-Based Recognition Boosted by Motion-Aware Learning**&quot;. In *Neurocomputing (NEUCOM)*.
+
+
 <a href="" target="_blank"><img src="https://img.shields.io/badge/ICLR-2025-red?style=flat-square"></a>	Yuena Lin, Yiyuan Wang, Gengyu Lyu, **<u>Yongjian Deng</u>**, Haichun Cai, Huibin Lin, Haobo Wang, Zhen Yang, &quot;**Enhance Multi-View Classification Through Multi-Scale Alignment and Expanded Boundary**&quot;. In *The Thirteenth International Conference on Learning Representations (ICLR)*.
 
 
