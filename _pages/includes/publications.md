@@ -1,6 +1,6 @@
 # 📝 Publications
 
-^: Supervised student  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;†: Equal contribution &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ✉️: Corresponding author
+^: Supervised student  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;†: Equal contribution &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📧: Corresponding author
 
 ## Peer-reviewed Articles
 
@@ -11,25 +11,25 @@
 <!-- % -----------2025------------- -->
 > **2025**
 
-<a href="" target="_blank"><img src="https://img.shields.io/badge/AAAI-2025-red?style=flat-square"></a>	Ke Li^, Gengyu Lyu, Hao Chen, Bochen Xie, Zhen Yang, Youfu Li, **<u>Yongjian Deng✉️</u>**, &quot;**Know Where You Are From: Event-Based Segmentation via Spatio-Temporal Propagation**&quot;. In *The AAAI Conference on Artificial Intelligence (AAAI)*.
+<a href="" target="_blank"><img src="https://img.shields.io/badge/AAAI-2025-red?style=flat-square"></a>	Ke Li^, Gengyu Lyu, Hao Chen, Bochen Xie, Zhen Yang, Youfu Li, **<u>Yongjian Deng📧</u>**, &quot;**Know Where You Are From: Event-Based Segmentation via Spatio-Temporal Propagation**&quot;. In *The AAAI Conference on Artificial Intelligence (AAAI)*.
 
-<a href="" target="_blank"><img src="https://img.shields.io/badge/AAAI-2025-red?style=flat-square"></a>	Yucheng Zhao^, Gengyu Lyu, Ke Li, Zihao Wang, Hao Chen, Zhen Yang, **<u>Yongjian Deng✉️</u>**, &quot;**ESEG: Event-Based Segmentation Boosted by Explicit Edge-Semantic Guidance**&quot;. In *The AAAI Conference on Artificial Intelligence (AAAI)*.
+<a href="" target="_blank"><img src="https://img.shields.io/badge/AAAI-2025-red?style=flat-square"></a>	Yucheng Zhao^, Gengyu Lyu, Ke Li, Zihao Wang, Hao Chen, Zhen Yang, **<u>Yongjian Deng📧</u>**, &quot;**ESEG: Event-Based Segmentation Boosted by Explicit Edge-Semantic Guidance**&quot;. In *The AAAI Conference on Artificial Intelligence (AAAI)*.
 
-<a href="" target="_blank"><img src="https://img.shields.io/badge/AAAI-2025-red?style=flat-square"></a>	Zihao Wang^, Yiming Huang, Gengyu Lyu, Yucheng Zhao, Ziyu Zhou, Bochen Xie, Zhen Yang, **<u>Yongjian Deng✉️</u>**, &quot;**MSV-PCT: Multi-Sparse-View Enhanced Transformer Framework for Salient Object Detection in Point Clouds**&quot;. In *The AAAI Conference on Artificial Intelligence (AAAI)*.
+<a href="" target="_blank"><img src="https://img.shields.io/badge/AAAI-2025-red?style=flat-square"></a>	Zihao Wang^, Yiming Huang, Gengyu Lyu, Yucheng Zhao, Ziyu Zhou, Bochen Xie, Zhen Yang, **<u>Yongjian Deng📧</u>**, &quot;**MSV-PCT: Multi-Sparse-View Enhanced Transformer Framework for Salient Object Detection in Point Clouds**&quot;. In *The AAAI Conference on Artificial Intelligence (AAAI)*.
 
 <a href="" target="_blank"><img src="https://img.shields.io/badge/ICLR-2025-red?style=flat-square"></a>	Yuena Lin, Yiyuan Wang, Gengyu Lyu, **<u>Yongjian Deng</u>**, Haichun Cai, Huibin Lin, Haobo Wang, Zhen Yang, &quot;**Enhance Multi-View Classification Through Multi-Scale Alignment and Expanded Boundary**&quot;. In *The Thirteenth International Conference on Learning Representations (ICLR)*.
 
-<a href="" target="_blank"><img src="https://img.shields.io/badge/NEUCOM-2025-blue?style=flat-square"></a>	Y. Liu^, **<u>Yongjian Deng✉️</u>**, B. Xie, H. Liu, Z. Yang and Y. Li, &quot;**Neuromorphic Event-Based Recognition Boosted by Motion-Aware Learning**&quot;. In *Neurocomputing (NEUCOM)*.
+<a href="" target="_blank"><img src="https://img.shields.io/badge/NEUCOM-2025-blue?style=flat-square"></a>	Y. Liu^, **<u>Yongjian Deng📧</u>**, B. Xie, H. Liu, Z. Yang and Y. Li, &quot;**Neuromorphic Event-Based Recognition Boosted by Motion-Aware Learning**&quot;. In *Neurocomputing (NEUCOM)*.
 
 <a href="" target="_blank"><img src="https://img.shields.io/badge/IEEE_TBD-2025-blue?style=flat-square"></a>	H Meng, **<u>Yongjian Deng</u>**, Q Zhong, Y Wang, Z Yang, G Lyu, &quot;**Federated Multi-View Multi-Label Classification**&quot;. In *IEEE Transactions on Big Data*.
 
 > **2024**
 
-<a href="https://www.computer.org/csdl/proceedings-article/cvpr/2024/530000i477/20hRju0bDWM" target="_blank"><img src="https://img.shields.io/badge/CVPR-2024-red?style=flat-square"></a>	Y. Liu^, **<u>Yongjian Deng✉️</u>**, H. Chen, and Y. Li, &quot;**Video Frame Interpolation via Direct Synthesis with the Event-based Reference**&quot;. In *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)*.
+<a href="https://www.computer.org/csdl/proceedings-article/cvpr/2024/530000i477/20hRju0bDWM" target="_blank"><img src="https://img.shields.io/badge/CVPR-2024-red?style=flat-square"></a>	Y. Liu^, **<u>Yongjian Deng📧</u>**, H. Chen, and Y. Li, &quot;**Video Frame Interpolation via Direct Synthesis with the Event-based Reference**&quot;. In *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)*.
 
 <a href="" target="_blank"><img src="https://img.shields.io/badge/AAAI-2024-red?style=flat-square"></a>	**<u>Yongjian Deng</u>**, H. Chen, and Y. Li, &quot;**A Dynamic Graph CNN with Cross-Representation Distillation for Event-Based Recognition**&quot;. In *The AAAI Conference on Artificial Intelligence (AAAI)*.
 
-<a href="" target="_blank"><img src="https://img.shields.io/badge/ICRA-2024-red?style=flat-square"></a>	B. Yao^, **<u>Yongjian Deng✉️</u>**, Y. Liu, H. Chen, and Z. Yang, &quot;**SAM-Event-Adapter: Adapting Segment Anything Model for Event-RGB Semantic Segmentation**&quot;. In *IEEE International Conference on Robotics and Automation (ICRA)*.
+<a href="" target="_blank"><img src="https://img.shields.io/badge/ICRA-2024-red?style=flat-square"></a>	B. Yao^, **<u>Yongjian Deng📧</u>**, Y. Liu, H. Chen, and Z. Yang, &quot;**SAM-Event-Adapter: Adapting Segment Anything Model for Event-RGB Semantic Segmentation**&quot;. In *IEEE International Conference on Robotics and Automation (ICRA)*.
 
 
 <a href="" target="_blank"><img src="https://img.shields.io/badge/NeurIPS-2024-red?style=flat-square"></a>	F. Shen, C. Li, Y. Geng, **<u>Yongjian Deng</u>**, H. Chen, &quot;**Prune and Repaint: Content-Aware Image Retargeting for any Ratio**&quot;. In *The Thirty-eighth Annual Conference on Neural Information Processing Systems (NeurIPS)*.
@@ -42,7 +42,7 @@
 
 <a href="" target="_blank"><img src="https://img.shields.io/badge/IEEE_TCCN-2024-blue?style=flat-square"></a>	Y. Wang, X. Zhang, Y. Lai, Z. Zhao and **<u>Yongjian Deng</u>**, &quot;**Hifoots: A Highly Efficient DDoS Attack Detection Scheme Deployed in Smart IoT Homes**&quot;. In *IEEE Transactions on Cognitive Communications and Networking (IEEE TCCN)*.
 
-<a href="" target="_blank"><img src="https://img.shields.io/badge/CE-2024-blue?style=flat-square"></a>	H. Wang^, **<u>Yongjian Deng✉️</u>** and T. Liu, &quot;**基于DINO先验的混合特征面部表情识别模型**&quot;. In *计算机工程*.
+<a href="" target="_blank"><img src="https://img.shields.io/badge/CE-2024-blue?style=flat-square"></a>	H. Wang^, **<u>Yongjian Deng📧</u>** and T. Liu, &quot;**基于DINO先验的混合特征面部表情识别模型**&quot;. In *计算机工程*.
 
 <a href="" target="_blank"><img src="https://img.shields.io/badge/ROBIO-2024-blue?style=flat-square"></a> H. Liu, Q. Chen, Z. Liu, **<u>Yongjian Deng</u>**, Z. Zhang and Y. Li, &quot;**FSLNet: Leveraging Skeleton Cue Guided FBIC for Bionic Intelligent Surveillance Robot via Transformer**&quot;. In The *IEEE International Conference on Robotics and Biomimetics (ROBIO)*. *(**Best Poster Award Finalist**)*
 
