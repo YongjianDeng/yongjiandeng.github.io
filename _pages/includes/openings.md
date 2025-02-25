@@ -1,4 +1,4 @@
 # 👋🏼 Openings
 
-[**Alt text**](documents/openings.pdf)
+[**Alt text**](documents\openings.pdf)
 
