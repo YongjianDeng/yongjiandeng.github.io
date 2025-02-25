@@ -7,7 +7,5 @@ For a PDF file:
 [Link to PDF](path/to/your/file.pdf)
 ```
 
-For a PNG file:
-```markdown
 ![Alt text](documents/apple-touch-icon.png)
-```
+
