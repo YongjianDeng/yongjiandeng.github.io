@@ -13,7 +13,7 @@
 
 <a href="" target="_blank"><img src="https://img.shields.io/badge/AAAI-2025-red?style=flat-square"></a>	Ke Li^, Gengyu Lyu, Hao Chen, Bochen Xie, Zhen Yang, Youfu Li, **<u>Yongjian Deng📧</u>**, &quot;**Know Where You Are From: Event-Based Segmentation via Spatio-Temporal Propagation**&quot;. In *The AAAI Conference on Artificial Intelligence (AAAI)*.
 
-<a href="" target="_blank"><img src="https://img.shields.io/badge/AAAI-2025-red?style=flat-square"></a>	Yucheng Zhao^, Gengyu Lyu, Ke Li, Zihao Wang, Hao Chen, Zhen Yang, **<u>Yongjian Deng📧</u>**, &quot;**ESEG: Event-Based Segmentation Boosted by Explicit Edge-Semantic Guidance**&quot;. In *The AAAI Conference on Artificial Intelligence (AAAI)*. (<font color=red>**Oral: Top 5%**</font>)
+<a href="" target="_blank"><img src="https://img.shields.io/badge/AAAI-2025-red?style=flat-square"></a>	Yucheng Zhao^, Gengyu Lyu, Ke Li, Zihao Wang, Hao Chen, Zhen Yang, **<u>Yongjian Deng📧</u>**, &quot;**ESEG: Event-Based Segmentation Boosted by Explicit Edge-Semantic Guidance**&quot;. In *The AAAI Conference on Artificial Intelligence (AAAI)*. (**<font color=red>Oral: Top 5%</font>**)
 
 <a href="" target="_blank"><img src="https://img.shields.io/badge/AAAI-2025-red?style=flat-square"></a>	Zihao Wang^, Yiming Huang^, Gengyu Lyu, Yucheng Zhao, Ziyu Zhou, Bochen Xie, Zhen Yang, **<u>Yongjian Deng📧</u>**, &quot;**MSV-PCT: Multi-Sparse-View Enhanced Transformer Framework for Salient Object Detection in Point Clouds**&quot;. In *The AAAI Conference on Artificial Intelligence (AAAI)*.
 
@@ -44,7 +44,7 @@
 
 <a href="" target="_blank"><img src="https://img.shields.io/badge/CE-2024-blue?style=flat-square"></a>	H. Wang^, **<u>Yongjian Deng📧</u>** and T. Liu, &quot;**基于DINO先验的混合特征面部表情识别模型**&quot;. In *计算机工程*.
 
-<a href="" target="_blank"><img src="https://img.shields.io/badge/ROBIO-2024-blue?style=flat-square"></a> H. Liu, Q. Chen, Z. Liu, **<u>Yongjian Deng</u>**, Z. Zhang and Y. Li, &quot;**FSLNet: Leveraging Skeleton Cue Guided FBIC for Bionic Intelligent Surveillance Robot via Transformer**&quot;. In The *IEEE International Conference on Robotics and Biomimetics (ROBIO)*. (<font color=red>**Best Poster Award Finalist**</font>)
+<a href="" target="_blank"><img src="https://img.shields.io/badge/ROBIO-2024-blue?style=flat-square"></a> H. Liu, Q. Chen, Z. Liu, **<u>Yongjian Deng</u>**, Z. Zhang and Y. Li, &quot;**FSLNet: Leveraging Skeleton Cue Guided FBIC for Bionic Intelligent Surveillance Robot via Transformer**&quot;. In The *IEEE International Conference on Robotics and Biomimetics (ROBIO)*. (**<font color=red>Best Poster Award Finalist</font>**)
 
 > **2023**
 
