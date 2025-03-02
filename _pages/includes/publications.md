@@ -19,11 +19,11 @@
 
 <a href="" target="_blank"><img src="https://img.shields.io/badge/ICLR-2025-red?style=flat-square"></a>	Yuena Lin, Yiyuan Wang, Gengyu Lyu, **<u>Yongjian Deng</u>**, Haichun Cai, Huibin Lin, Haobo Wang, Zhen Yang, &quot;**Enhance Multi-View Classification Through Multi-Scale Alignment and Expanded Boundary**&quot;. In *The Thirteenth International Conference on Learning Representations (ICLR)*.
 
-<a href="" target="_blank"><img src="https://img.shields.io/badge/AAAI-2025-red?style=flat-square"></a>	Hao Wei, **<u>Yongjian Deng</u>**, Qiuru Hai, Yuena Lin, Zhen Yang, Gengyu Lyu, &quot;**Multi-View Multi-Label Classification via View-Label Matching Selection**&quot;. In *The AAAI Conference on Artificial Intelligence (AAAI)*.
+<!-- <a href="" target="_blank"><img src="https://img.shields.io/badge/AAAI-2025-red?style=flat-square"></a>	Hao Wei, **<u>Yongjian Deng</u>**, Qiuru Hai, Yuena Lin, Zhen Yang, Gengyu Lyu, &quot;**Multi-View Multi-Label Classification via View-Label Matching Selection**&quot;. In *The AAAI Conference on Artificial Intelligence (AAAI)*.
 
 <a href="" target="_blank"><img src="https://img.shields.io/badge/AAAI-2025-red?style=flat-square"></a>	Qiuru Hai,  **<u>Yongjian Deng</u>**, Yuena Lin, Zheng Li, Zhen Yang, Gengyu Lyu, &quot;**CFDM: Contrastive Fusion and Disambiguation for Multi-View Partial-Label Learning**&quot;. In *The AAAI Conference on Artificial Intelligence (AAAI)*.
 
-<a href="" target="_blank"><img src="https://img.shields.io/badge/AAAI-2025-red?style=flat-square"></a>	Bohang Sun,  **<u>Yongjian Deng</u>**, Yuena Lin, Qiuru Hai, Zhen Yang, Gengyu Lyu, &quot;**Graph Consistency and Diversity Measurement for Federated Multi-View Clustering**&quot;. In *The AAAI Conference on Artificial Intelligence (AAAI)*.
+<a href="" target="_blank"><img src="https://img.shields.io/badge/AAAI-2025-red?style=flat-square"></a>	Bohang Sun,  **<u>Yongjian Deng</u>**, Yuena Lin, Qiuru Hai, Zhen Yang, Gengyu Lyu, &quot;**Graph Consistency and Diversity Measurement for Federated Multi-View Clustering**&quot;. In *The AAAI Conference on Artificial Intelligence (AAAI)*. -->
 
 <a href="" target="_blank"><img src="https://img.shields.io/badge/NEUCOM-2025-blue?style=flat-square"></a>	Y. Liu^, **<u>Yongjian Deng📧</u>**, B. Xie, H. Liu, Z. Yang and Y. Li, &quot;**Neuromorphic Event-Based Recognition Boosted by Motion-Aware Learning**&quot;. In *Neurocomputing (NEUCOM)*.
 
