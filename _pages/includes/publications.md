@@ -11,7 +11,7 @@
 <!-- % -----------2025------------- -->
 > **2025**
 
-<a href="" target="_blank"><img src="https://img.shields.io/badge/AAAI-2025-red?style=flat-square"></a>	Yucheng Zhao^, Gengyu Lyu, Ke Li, Zihao Wang, Hao Chen, Zhen Yang, **<u>Yongjian Deng📧</u>**, &quot;**ESEG: Event-Based Segmentation Boosted by Explicit Edge-Semantic Guidance**&quot;. In *The AAAI Conference on Artificial Intelligence (AAAI)*. (**<font color=red>Oral: Top 5%</font>**)
+<a href="" target="_blank"><img src="https://img.shields.io/badge/AAAI-2025-red?style=flat-square"></a>	Yucheng Zhao^, Gengyu Lyu, Ke Li, Zihao Wang, Hao Chen, Zhen Yang, **<u>Yongjian Deng📧¶</u>**, &quot;**ESEG: Event-Based Segmentation Boosted by Explicit Edge-Semantic Guidance**&quot;. In *The AAAI Conference on Artificial Intelligence (AAAI)*. (**<font color=red>Oral: Top 5%</font>**)
 
 <a href="" target="_blank"><img src="https://img.shields.io/badge/AAAI-2025-red?style=flat-square"></a>	Ke Li^, Gengyu Lyu, Hao Chen, Bochen Xie, Zhen Yang, Youfu Li, **<u>Yongjian Deng📧</u>**, &quot;**Know Where You Are From: Event-Based Segmentation via Spatio-Temporal Propagation**&quot;. In *The AAAI Conference on Artificial Intelligence (AAAI)*.
 
