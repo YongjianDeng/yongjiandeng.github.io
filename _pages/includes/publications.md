@@ -11,7 +11,7 @@
 <!-- % -----------2025------------- -->
 > **2025**
 
-<a href="" target="_blank"><img src="https://img.shields.io/badge/ICML-2025-red?style=flat-square"></a>	Xiaoyu Ma, Hao Chen, **<u>Yongjian Deng</u>**, &quot;**Improving Multimodal Learning Balance and Sufficiency through Data Remixing**&quot;. In *The AAAI Conference on Artificial Intelligence (AAAI)*. (**<font color=red>Oral: Top 5%</font>**)
+<a href="" target="_blank"><img src="https://img.shields.io/badge/ICML-2025-red?style=flat-square"></a>	Xiaoyu Ma, Hao Chen, **<u>Yongjian Deng</u>**, &quot;**Improving Multimodal Learning Balance and Sufficiency through Data Remixing**&quot;. In *Forty-second International Conference on Machine Learning (ICML)*.
 
 <a href="" target="_blank"><img src="https://img.shields.io/badge/AAAI-2025-red?style=flat-square"></a>	Yucheng Zhao^, Gengyu Lyu, Ke Li, Zihao Wang, Hao Chen, Zhen Yang, **<u>Yongjian Deng📧</u>**, &quot;**ESEG: Event-Based Segmentation Boosted by Explicit Edge-Semantic Guidance**&quot;. In *The AAAI Conference on Artificial Intelligence (AAAI)*. (**<font color=red>Oral: Top 5%</font>**)
 
