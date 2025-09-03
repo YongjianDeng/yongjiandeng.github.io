@@ -19,6 +19,8 @@
 
 <a href="" target="_blank"><img src="https://img.shields.io/badge/AAAI-2025-red?style=flat-square"></a>	Zihao Wang^, Yiming Huang^, Gengyu Lyu, Yucheng Zhao, Ziyu Zhou, Bochen Xie, Zhen Yang, **<u>Yongjian Deng📧</u>**, &quot;**MSV-PCT: Multi-Sparse-View Enhanced Transformer Framework for Salient Object Detection in Point Clouds**&quot;. In *The AAAI Conference on Artificial Intelligence (AAAI)*.
 
+<a href="" target="_blank"><img src="https://img.shields.io/badge/ICCV-2025-red?style=flat-square"></a>	Y. Zhu, H. Chen, **<u>Yongjian Deng</u>** and W. You, &quot;**Separation for Better Integration: Disentangling Edge and Motion in Event-based Deblurring**&quot;. In *International Conference on Computer Vision (ICCV)*.
+
 <a href="" target="_blank"><img src="https://img.shields.io/badge/ICLR-2025-red?style=flat-square"></a>	Yuena Lin, Yiyuan Wang, Gengyu Lyu, **<u>Yongjian Deng</u>**, Haichun Cai, Huibin Lin, Haobo Wang, Zhen Yang, &quot;**Enhance Multi-View Classification Through Multi-Scale Alignment and Expanded Boundary**&quot;. In *The Thirteenth International Conference on Learning Representations (ICLR)*.
 
 <a href="" target="_blank"><img src="https://img.shields.io/badge/AAAI-2025-red?style=flat-square"></a>	Hao Wei, **<u>Yongjian Deng</u>**, Qiuru Hai, Yuena Lin, Zhen Yang, Gengyu Lyu, &quot;**Multi-View Multi-Label Classification via View-Label Matching Selection**&quot;. In *The AAAI Conference on Artificial Intelligence (AAAI)*.
@@ -27,9 +29,15 @@
 
 <a href="" target="_blank"><img src="https://img.shields.io/badge/AAAI-2025-red?style=flat-square"></a>	Bohang Sun,  **<u>Yongjian Deng</u>**, Yuena Lin, Qiuru Hai, Zhen Yang, Gengyu Lyu, &quot;**Graph Consistency and Diversity Measurement for Federated Multi-View Clustering**&quot;. In *The AAAI Conference on Artificial Intelligence (AAAI)*.
 
+<a href="" target="_blank"><img src="https://img.shields.io/badge/EAAI-2025-blue?style=flat-square"></a>	H. Ma^, **<u>Yongjian Deng📧</u>**, B. Xie, J. Liu, H. Liu, Y. Li and Z. Yang, &quot;**Pixel-Level Semantics Boosted Fine-Grained Bird Image Classification**&quot;. In *Engineering Applications of Artificial Inteligence (EAAI)*.
+
+<a href="" target="_blank"><img src="https://img.shields.io/badge/IEEE_TMM-2025-blue?style=flat-square"></a>	Q. Zhou, J. Hou, M. Yang, **<u>Yongjian Deng</u>**, Y. Li and J. Xiong, &quot;**Spatially-guided Temporal Aggregation for Robust Event-RGB Optical Flow Estimation**&quot;. In *IEEE Transactions on Multimedia (IEEE TMM)*.
+
+<a href="" target="_blank"><img src="https://img.shields.io/badge/INFFUS-2025-blue?style=flat-square"></a>	H. Chen, F. Hong, L. Zhang, **<u>Yongjian Deng</u>** and P. Wang, &quot;**Modality-balanced contrastive pre-training for RGB-D salient object detection**&quot;. In *Information Fusion (INFFUS)*.
+
 <a href="" target="_blank"><img src="https://img.shields.io/badge/NEUCOM-2025-blue?style=flat-square"></a>	Y. Liu^, **<u>Yongjian Deng📧</u>**, B. Xie, H. Liu, Z. Yang and Y. Li, &quot;**Neuromorphic Event-Based Recognition Boosted by Motion-Aware Learning**&quot;. In *Neurocomputing (NEUCOM)*.
 
-<a href="" target="_blank"><img src="https://img.shields.io/badge/IEEE_TBD-2025-blue?style=flat-square"></a>	H Meng, **<u>Yongjian Deng</u>**, Q Zhong, Y Wang, Z Yang, G Lyu, &quot;**Federated Multi-View Multi-Label Classification**&quot;. In *IEEE Transactions on Big Data*.
+<a href="" target="_blank"><img src="https://img.shields.io/badge/IEEE_TBD-2025-blue?style=flat-square"></a> H Meng, **<u>Yongjian Deng</u>**, Q Zhong, Y Wang, Z Yang, G Lyu, &quot;**Federated Multi-View Multi-Label Classification**&quot;. In *IEEE Transactions on Big Data*.
 
 > **2024**
 
@@ -91,8 +99,7 @@
 ## Preprints
 
 
-<a href="" target="_blank"><img src="https://img.shields.io/badge/Arxiv-2025-green?style=flat-square"></a>	Q Zhou, J Hou, M Yang, **<u>Yongjian Deng</u>**, Y Li, J Xiong, &quot;**Spatially-guided Temporal Aggregation for Robust Event-RGB Optical Flow Estimation**&quot;. In *Arxiv*.
-
+<!-- <a href="" target="_blank"><img src="https://img.shields.io/badge/Arxiv-2025-green?style=flat-square"></a>	Q Zhou, J Hou, M Yang, **<u>Yongjian Deng</u>**, Y Li, J Xiong, &quot;**Spatially-guided Temporal Aggregation for Robust Event-RGB Optical Flow Estimation**&quot;. In *Arxiv*. -->
 
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Arxiv-2024-green?style=flat-square"></a>	Q Zhou, Z Zhu, J Hou, **<u>Yongjian Deng</u>**, Y Li, J Xiong, &quot;**ResFlow: Fine-tuning Residual Optical Flow for Event-based High Temporal Resolution Motion Estimation**&quot;. In *Arxiv*.
 
