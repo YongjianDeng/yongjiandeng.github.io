@@ -11,6 +11,9 @@
 <!-- % -----------2025------------- -->
 > **2025**
 
+<a href="" target="_blank"><img src="https://img.shields.io/badge/NeurIPS-2024-red?style=flat-square"></a>	Yuhan Liu^, LingHui Fu^, Zhen Yang, Hao Chen, Youfu Li, **<u>Yongjian Deng📧</u>**, &quot;**	
+EPA: Boosting Event-based Video Frame Interpolation with Perceptually Aligned Learning**&quot;. In *The Thirty-ninth Annual Conference on Neural Information Processing Systems (NeurIPS)*.
+
 <a href="" target="_blank"><img src="https://img.shields.io/badge/ICML-2025-red?style=flat-square"></a>	Xiaoyu Ma, Hao Chen, **<u>Yongjian Deng</u>**, &quot;**Improving Multimodal Learning Balance and Sufficiency through Data Remixing**&quot;. In *Forty-second International Conference on Machine Learning (ICML)*.
 
 <a href="" target="_blank"><img src="https://img.shields.io/badge/AAAI-2025-red?style=flat-square"></a>	Yucheng Zhao^, Gengyu Lyu, Ke Li, Zihao Wang, Hao Chen, Zhen Yang, **<u>Yongjian Deng📧</u>**, &quot;**ESEG: Event-Based Segmentation Boosted by Explicit Edge-Semantic Guidance**&quot;. In *The AAAI Conference on Artificial Intelligence (AAAI)*. (**<font color=red>Oral: Top 5%</font>**)
@@ -28,6 +31,8 @@
 <a href="" target="_blank"><img src="https://img.shields.io/badge/AAAI-2025-red?style=flat-square"></a>	Qiuru Hai,  **<u>Yongjian Deng</u>**, Yuena Lin, Zheng Li, Zhen Yang, Gengyu Lyu, &quot;**CFDM: Contrastive Fusion and Disambiguation for Multi-View Partial-Label Learning**&quot;. In *The AAAI Conference on Artificial Intelligence (AAAI)*.
 
 <a href="" target="_blank"><img src="https://img.shields.io/badge/AAAI-2025-red?style=flat-square"></a>	Bohang Sun,  **<u>Yongjian Deng</u>**, Yuena Lin, Qiuru Hai, Zhen Yang, Gengyu Lyu, &quot;**Graph Consistency and Diversity Measurement for Federated Multi-View Clustering**&quot;. In *The AAAI Conference on Artificial Intelligence (AAAI)*.
+
+<a href="" target="_blank"><img src="https://img.shields.io/badge/IEEE_TCSVT-2025-green?style=flat-square"></a>	Q Zhou, Z Zhu, J Hou, **<u>Yongjian Deng</u>**, Y Li, J Xiong, &quot;**ResFlow: Fine-tuning Residual Optical Flow for Event-based High Temporal Resolution Motion Estimation**&quot;. In *IEEE Transactions on Circuits and Systems for Video Technology (IEEE TCSVT)*.
 
 <a href="" target="_blank"><img src="https://img.shields.io/badge/EAAI-2025-blue?style=flat-square"></a>	H. Ma^, **<u>Yongjian Deng📧</u>**, B. Xie, J. Liu, H. Liu, Y. Li and Z. Yang, &quot;**Pixel-Level Semantics Boosted Fine-Grained Bird Image Classification**&quot;. In *Engineering Applications of Artificial Inteligence (EAAI)*.
 
@@ -101,6 +106,6 @@
 
 <!-- <a href="" target="_blank"><img src="https://img.shields.io/badge/Arxiv-2025-green?style=flat-square"></a>	Q Zhou, J Hou, M Yang, **<u>Yongjian Deng</u>**, Y Li, J Xiong, &quot;**Spatially-guided Temporal Aggregation for Robust Event-RGB Optical Flow Estimation**&quot;. In *Arxiv*. -->
 
-<a href="" target="_blank"><img src="https://img.shields.io/badge/Arxiv-2024-green?style=flat-square"></a>	Q Zhou, Z Zhu, J Hou, **<u>Yongjian Deng</u>**, Y Li, J Xiong, &quot;**ResFlow: Fine-tuning Residual Optical Flow for Event-based High Temporal Resolution Motion Estimation**&quot;. In *Arxiv*.
+<!-- <a href="" target="_blank"><img src="https://img.shields.io/badge/Arxiv-2024-green?style=flat-square"></a>	Q Zhou, Z Zhu, J Hou, **<u>Yongjian Deng</u>**, Y Li, J Xiong, &quot;**ResFlow: Fine-tuning Residual Optical Flow for Event-based High Temporal Resolution Motion Estimation**&quot;. In *Arxiv*. -->
 
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Arxiv-2024-green?style=flat-square"></a>	Y Tian, H Chen, **<u>Yongjian Deng</u>**, F Shen, K Liu, W You, Z Zhang, &quot;**EventAug: Multifaceted Spatio-Temporal Data Augmentation Methods for Event-based Learning**&quot;. In *Arxiv*.
