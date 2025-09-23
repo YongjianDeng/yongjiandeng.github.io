@@ -11,7 +11,7 @@
 <!-- % -----------2025------------- -->
 > **2025**
 
-<a href="" target="_blank"><img src="https://img.shields.io/badge/NeurIPS-2024-red?style=flat-square"></a>	Yuhan Liu^, LingHui Fu^, Zhen Yang, Hao Chen, Youfu Li, **<u>Yongjian Deng📧</u>**, &quot;**EPA: Boosting Event-based Video Frame Interpolation with Perceptually Aligned Learning**&quot;. In *The Thirty-ninth Annual Conference on Neural Information Processing Systems (NeurIPS)*.
+<a href="" target="_blank"><img src="https://img.shields.io/badge/NeurIPS-2025-red?style=flat-square"></a>	Yuhan Liu^, LingHui Fu^, Zhen Yang, Hao Chen, Youfu Li, **<u>Yongjian Deng📧</u>**, &quot;**EPA: Boosting Event-based Video Frame Interpolation with Perceptually Aligned Learning**&quot;. In *The Thirty-ninth Annual Conference on Neural Information Processing Systems (NeurIPS)*.
 
 <a href="" target="_blank"><img src="https://img.shields.io/badge/ICML-2025-red?style=flat-square"></a>	Xiaoyu Ma, Hao Chen, **<u>Yongjian Deng</u>**, &quot;**Improving Multimodal Learning Balance and Sufficiency through Data Remixing**&quot;. In *Forty-second International Conference on Machine Learning (ICML)*.
 
