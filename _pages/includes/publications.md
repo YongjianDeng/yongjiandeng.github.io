@@ -31,7 +31,9 @@
 
 <a href="" target="_blank"><img src="https://img.shields.io/badge/AAAI-2025-red?style=flat-square"></a>	Bohang Sun,  **<u>Yongjian Deng</u>**, Yuena Lin, Qiuru Hai, Zhen Yang, Gengyu Lyu, &quot;**Graph Consistency and Diversity Measurement for Federated Multi-View Clustering**&quot;. In *The AAAI Conference on Artificial Intelligence (AAAI)*.
 
-<a href="" target="_blank"><img src="https://img.shields.io/badge/IEEE_TCSVT-2025-green?style=flat-square"></a>	Q Zhou, Z Zhu, J Hou, **<u>Yongjian Deng</u>**, Y Li, J Xiong, &quot;**ResFlow: Fine-tuning Residual Optical Flow for Event-based High Temporal Resolution Motion Estimation**&quot;. In *IEEE Transactions on Circuits and Systems for Video Technology (IEEE TCSVT)*.
+<a href="" target="_blank"><img src="https://img.shields.io/badge/IEEE_TCSVT-2025-blue?style=flat-square"></a>	Q Zhou, Z Zhu, J Hou, **<u>Yongjian Deng</u>**, Y Li, J Xiong, &quot;**ResFlow: Fine-tuning Residual Optical Flow for Event-based High Temporal Resolution Motion Estimation**&quot;. In *IEEE Transactions on Circuits and Systems for Video Technology (IEEE TCSVT)*.
+
+<a href="" target="_blank"><img src="https://img.shields.io/badge/IEEE_TCSVT-2025-blue?style=flat-square"></a>	Yuhan Liu^, LingHui Fu^, Hao Chen, Zhen Yang, Youfu Li, **<u>Yongjian Deng📧</u>**, &quot;**Event-based Video Interpolation via Complementary Motion Information	**&quot;. In *Engineering Applications of Artificial Inteligence (EAAI)*.
 
 <a href="" target="_blank"><img src="https://img.shields.io/badge/EAAI-2025-blue?style=flat-square"></a>	H. Ma^, **<u>Yongjian Deng📧</u>**, B. Xie, J. Liu, H. Liu, Y. Li and Z. Yang, &quot;**Pixel-Level Semantics Boosted Fine-Grained Bird Image Classification**&quot;. In *Engineering Applications of Artificial Inteligence (EAAI)*.
 
