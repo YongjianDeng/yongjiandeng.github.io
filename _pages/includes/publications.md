@@ -8,6 +8,16 @@
 
 <!-- <a href="https://dl.acm.org/doi/10.1145/3664647.3680958" target="_blank"><img src="https://img.shields.io/badge/CVPR-2025-red?style=flat-square"></a> Can Cui†, <u>Siteng Huang</u>†, Wenxuan Song, Pengxiang Ding, Zhang Min, Donglin Wang, &quot;**ProFD: Prompt-Guided Feature Disentangling for Occluded Person Re-Identification**&quot;. In *Proceedings of the 32nd ACM International Conference on Multimedia*. [[arXiv](https://arxiv.org/abs/2409.20081)] [[github](https://github.com/Cuixxx/ProFD)] [[OpenReview](https://openreview.net/forum?id=o2axlPlXYY)] -->
 
+<!-- % -----------2026------------- -->
+> **2026**
+
+<a href="" target="_blank"><img src="https://img.shields.io/badge/AAAI-2026-red?style=flat-square"></a>	Z. Dong, C. Li, **<u>Yongjian Deng</u>**, H. Chen &quot;**AIR-DR: Adaptive Image Retargeting with Instance Relocation and Dual-guidance Repainting**&quot;. In *The AAAI Conference on Artificial Intelligence (AAAI)*.
+
+<a href="" target="_blank"><img src="https://img.shields.io/badge/IEEE_TMM-2026-blue?style=flat-square"></a>	Q. Zhou, J. Hou, M. Yang, **<u>Yongjian Deng</u>**, Y. Li and J. Xiong, &quot;**Spatially-guided Temporal Aggregation for Robust Event-RGB Optical Flow Estimation**&quot;. In *IEEE Transactions on Multimedia (IEEE TMM)*.
+
+<a href="" target="_blank"><img src="https://img.shields.io/badge/ACM_TOMM-2025-blue?style=flat-square"></a>	Y. Ding^, B. Yao^, Y. Liu^, H. Chen, D. Ding, Z. Yang, Y. Li and **<u>Yongjian Deng📧</u>**, &quot;**EvSAM: Segment Anything Model with Event-based Assistance**&quot;. In *ACM Transactions on Multimedia Computing, Communications, and Applications (ACM TOMM)*.
+
+
 <!-- % -----------2025------------- -->
 > **2025**
 
@@ -33,11 +43,10 @@
 
 <a href="" target="_blank"><img src="https://img.shields.io/badge/IEEE_TCSVT-2025-blue?style=flat-square"></a>	Q Zhou, Z Zhu, J Hou, **<u>Yongjian Deng</u>**, Y Li, J Xiong, &quot;**ResFlow: Fine-tuning Residual Optical Flow for Event-based High Temporal Resolution Motion Estimation**&quot;. In *IEEE Transactions on Circuits and Systems for Video Technology (IEEE TCSVT)*.
 
-<a href="" target="_blank"><img src="https://img.shields.io/badge/IEEE_TCSVT-2025-blue?style=flat-square"></a>	Yuhan Liu^, LingHui Fu^, Hao Chen, Zhen Yang, Youfu Li, **<u>Yongjian Deng📧</u>**, &quot;**Event-based Video Interpolation via Complementary Motion Information	**&quot;. In *Engineering Applications of Artificial Inteligence (EAAI)*.
+<a href="" target="_blank"><img src="https://img.shields.io/badge/EAAI-2025-blue?style=flat-square"></a>	Yuhan Liu^, LingHui Fu^, Hao Chen, Zhen Yang, Youfu Li, **<u>Yongjian Deng📧</u>**, &quot;**Event-based Video Interpolation via Complementary Motion Information	**&quot;. In *Engineering Applications of Artificial Inteligence (EAAI)*.
 
 <a href="" target="_blank"><img src="https://img.shields.io/badge/EAAI-2025-blue?style=flat-square"></a>	H. Ma^, **<u>Yongjian Deng📧</u>**, B. Xie, J. Liu, H. Liu, Y. Li and Z. Yang, &quot;**Pixel-Level Semantics Boosted Fine-Grained Bird Image Classification**&quot;. In *Engineering Applications of Artificial Inteligence (EAAI)*.
 
-<a href="" target="_blank"><img src="https://img.shields.io/badge/IEEE_TMM-2025-blue?style=flat-square"></a>	Q. Zhou, J. Hou, M. Yang, **<u>Yongjian Deng</u>**, Y. Li and J. Xiong, &quot;**Spatially-guided Temporal Aggregation for Robust Event-RGB Optical Flow Estimation**&quot;. In *IEEE Transactions on Multimedia (IEEE TMM)*.
 
 <a href="" target="_blank"><img src="https://img.shields.io/badge/INFFUS-2025-blue?style=flat-square"></a>	H. Chen, F. Hong, L. Zhang, **<u>Yongjian Deng</u>** and P. Wang, &quot;**Modality-balanced contrastive pre-training for RGB-D salient object detection**&quot;. In *Information Fusion (INFFUS)*.
 
