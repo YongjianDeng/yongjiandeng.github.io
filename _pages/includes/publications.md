@@ -11,6 +11,10 @@
 <!-- % -----------2026------------- -->
 > **2026**
 
+<a href="https://duckduckgo.com/?q=Event-Based+Motion+Deblurring+Using+Task-Oriented+3D+Gaussian+Event+Representations+site%3Aopenaccess.thecvf.com" target="_blank"><img src="https://img.shields.io/badge/CVPR-2026-red?style=flat-square"></a>	S. Xue, H. Ma, H. Chen, Z. Yang, **<u>Yongjian Deng📧</u>**, &quot;**Event-Based Motion Deblurring Using Task-Oriented 3D Gaussian Event Representations**&quot;. In *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)*.
+
+<a href="https://duckduckgo.com/?q=One-Shot+Flow%2C+Any-Time+Frame%3A+A+Bidirectional+Warping+Framework+for+Event-Based+Video+Frame+Interpolation+site%3Aopenaccess.thecvf.com" target="_blank"><img src="https://img.shields.io/badge/CVPR-2026-red?style=flat-square"></a>	L. Fu, Y. Liu, H. Chen, Z. Yang, **<u>Yongjian Deng📧</u>**, &quot;**One-Shot Flow, Any-Time Frame: A Bidirectional Warping Framework for Event-Based Video Frame Interpolation**&quot;. In *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)*.
+
 <a href="https://duckduckgo.com/?q=AIR-DR%3A+Adaptive+Image+Retargeting+with+Instance+Relocation+and+Dual-guidance+Repainting+site%3Aojs.aaai.org" target="_blank"><img src="https://img.shields.io/badge/AAAI-2026-red?style=flat-square"></a>	Z. Dong, C. Li, **<u>Yongjian Deng</u>**, H. Chen &quot;**AIR-DR: Adaptive Image Retargeting with Instance Relocation and Dual-guidance Repainting**&quot;. In *The AAAI Conference on Artificial Intelligence (AAAI)*.
 
 <a href="https://duckduckgo.com/?q=Spatially-guided+Temporal+Aggregation+for+Robust+Event-RGB+Optical+Flow+Estimation+site%3Aieeexplore.ieee.org" target="_blank"><img src="https://img.shields.io/badge/IEEE_TMM-2026-blue?style=flat-square"></a>	Q. Zhou, J. Hou, M. Yang, **<u>Yongjian Deng</u>**, Y. Li and J. Xiong, &quot;**Spatially-guided Temporal Aggregation for Robust Event-RGB Optical Flow Estimation**&quot;. In *IEEE Transactions on Multimedia (IEEE TMM)*.
