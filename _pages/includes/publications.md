@@ -2,7 +2,48 @@
 
 ^: Supervised student  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;†: Equal contribution &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📧: Corresponding author
 
-## Peer-reviewed Articles
+## Recent & Selected Publications
+
+<div class="selected-publications">
+  <article class="selected-paper selected-paper--highlight">
+    <div class="selected-paper__venue">CVPR 2026</div>
+    <h3><a href="https://duckduckgo.com/?q=Event-Based+Motion+Deblurring+Using+Task-Oriented+3D+Gaussian+Event+Representations+site%3Aopenaccess.thecvf.com" target="_blank">Event-Based Motion Deblurring Using Task-Oriented 3D Gaussian Event Representations</a></h3>
+    <p>S. Xue, H. Ma, H. Chen, Z. Yang, <strong>Yongjian Deng</strong></p>
+    <div class="selected-paper__meta">Event cameras · Motion deblurring · 3D Gaussian event representations</div>
+  </article>
+  <article class="selected-paper selected-paper--highlight">
+    <div class="selected-paper__venue">CVPR 2026</div>
+    <h3><a href="https://duckduckgo.com/?q=One-Shot+Flow%2C+Any-Time+Frame%3A+A+Bidirectional+Warping+Framework+for+Event-Based+Video+Frame+Interpolation+site%3Aopenaccess.thecvf.com" target="_blank">One-Shot Flow, Any-Time Frame: A Bidirectional Warping Framework for Event-Based Video Frame Interpolation</a></h3>
+    <p>L. Fu, Y. Liu, H. Chen, Z. Yang, <strong>Yongjian Deng</strong></p>
+    <div class="selected-paper__meta">Event-based VFI · Bidirectional warping · Dense video synthesis</div>
+  </article>
+  <article class="selected-paper">
+    <div class="selected-paper__venue">NeurIPS 2025</div>
+    <h3><a href="https://duckduckgo.com/?q=EPA%3A+Boosting+Event-based+Video+Frame+Interpolation+with+Perceptually+Aligned+Learning+site%3Aproceedings.neurips.cc" target="_blank">EPA: Boosting Event-based Video Frame Interpolation with Perceptually Aligned Learning</a></h3>
+    <p>Yuhan Liu, LingHui Fu, Hao Chen, Zhen Yang, Youfu Li, <strong>Yongjian Deng</strong></p>
+    <div class="selected-paper__meta">Event-based video interpolation · Perceptual alignment</div>
+  </article>
+  <article class="selected-paper">
+    <div class="selected-paper__venue">ICCV 2025</div>
+    <h3><a href="https://duckduckgo.com/?q=Separation+for+Better+Integration%3A+Disentangling+Edge+and+Motion+in+Event-based+Deblurring+site%3Aopenaccess.thecvf.com" target="_blank">Separation for Better Integration: Disentangling Edge and Motion in Event-based Deblurring</a></h3>
+    <p>Y. Zhu, H. Chen, <strong>Yongjian Deng</strong>, W. You</p>
+    <div class="selected-paper__meta">Event-based deblurring · Edge-motion disentanglement</div>
+  </article>
+  <article class="selected-paper">
+    <div class="selected-paper__venue">CVPR 2024</div>
+    <h3><a href="https://www.computer.org/csdl/proceedings-article/cvpr/2024/530000i477/20hRju0bDWM" target="_blank">Video Frame Interpolation via Direct Synthesis with the Event-based Reference</a></h3>
+    <p>Y. Liu, <strong>Yongjian Deng</strong>, H. Chen, Y. Li</p>
+    <div class="selected-paper__meta">Event reference · Video frame interpolation · Direct synthesis</div>
+  </article>
+  <article class="selected-paper">
+    <div class="selected-paper__venue">AAAI 2024</div>
+    <h3><a href="https://duckduckgo.com/?q=A+Dynamic+Graph+CNN+with+Cross-Representation+Distillation+for+Event-Based+Recognition+site%3Aojs.aaai.org" target="_blank">A Dynamic Graph CNN with Cross-Representation Distillation for Event-Based Recognition</a></h3>
+    <p><strong>Yongjian Deng</strong>, H. Chen, Y. Li</p>
+    <div class="selected-paper__meta">Event-based recognition · Dynamic graph CNN · Distillation</div>
+  </article>
+</div>
+
+## Full Publications
 
 <!-- <img src="https://img.shields.io/badge/AAAI-2025-blue?style=flat-square"> Han Zhao, Min Zhang, Wei Zhao, Pengxiang Ding, <u>Siteng Huang</u>, Donglin Wang, &quot;**Cobra: Extending Mamba to Multi-Modal Large Language Model for Efficient Inference**&quot;. In *Proceedings of the 39th AAAI Conference on Artificial Intelligence*. [[arXiv](https://arxiv.org/abs/2403.14520)] [[pdf](https://arxiv.org/pdf/2403.14520.pdf)] [[project page](https://sites.google.com/view/cobravlm)] [[Chinese intro (Zhihu)](https://zhuanlan.zhihu.com/p/688544752)] [[github](https://github.com/h-zhao1997/cobra)] [[demo](https://huggingface.co/spaces/han1997/cobra)] [[video (Youtube)](https://www.youtube.com/watch?v=i0sTdi_yVbc)] [[机器之心](https://mp.weixin.qq.com/s/KuuNTL_jBRsyhub5_6aXpQ)] [[Twitter@AK](https://twitter.com/_akhaliq/status/1771033002748837953?t=6S4PVZXg6GcXqi_-PFzipw&s=19)] <a class='paper_citations_badges' data='mhpkWSYAAAAJ:Se3iqnhoufwC' href="" target="_blank"></a> <a href="https://github.com/h-zhao1997/cobra" target="_blank"><img src="https://img.shields.io/github/stars/h-zhao1997/cobra?style=social"></a> -->
 

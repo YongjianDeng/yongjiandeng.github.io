@@ -1,2 +1,31 @@
-DENG, Yongjian (邓勇舰) is currently an Associate Professor at the Beijing University of Technology. He received the B.Eng. degree from the China University of Petroleum (Beijing) in 2016, the M.Sc. degree from the University of Florida in 2018, and the Ph.D. degree from the City University of Hong Kong in 2021. He has been an Assistant Professor(2022-2024)/Associate Professor(2025-) in the College of Computer Science, Beijing University of Technology. From 2022 to 2024, he was also a Senior Research Associate with the Shenzhen Research Institute, City University of Hong Kong. His research interests include **Bio-Inspired Vision**, **Computational Photography** and **Robot Vision**. He has published 30+ papers at the top international AI conferences/journals.
-
+<section class="home-hero">
+  <p class="home-hero__eyebrow">Associate Professor · Beijing University of Technology</p>
+  <h1>Yongjian Deng <span>邓勇舰</span></h1>
+  <p class="home-hero__lead">
+    I work on bio-inspired vision, computational photography, and robot vision, with a focus on event cameras, multimodal perception, and robust visual understanding.
+  </p>
+  <div class="home-hero__chips" aria-label="Research areas">
+    <span>Bio-Inspired Vision</span>
+    <span>Computational Photography</span>
+    <span>Robot Vision</span>
+  </div>
+  <div class="home-hero__stats">
+    <div>
+      <strong>30+</strong>
+      <span>Top AI / vision papers</span>
+    </div>
+    <div>
+      <strong>2025-</strong>
+      <span>Associate Professor</span>
+    </div>
+    <div>
+      <strong>CVPR · ICCV · AAAI</strong>
+      <span>Recent venues</span>
+    </div>
+  </div>
+  <div class="home-hero__actions">
+    <a href="mailto:yjdeng@bjut.edu.cn">Email</a>
+    <a href="https://scholar.google.com/citations?user=gKXu0XgAAAAJ" target="_blank">Google Scholar</a>
+    <a href="#-publications">Publications</a>
+  </div>
+</section>
