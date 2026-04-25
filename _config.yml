@@ -24,10 +24,10 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yongjian Deng (邓勇舰)"
   avatar           : "images/canyon.jpeg"
-  bio              : "Associate Professor, Beijing University of Technology"
-  location         : "Beijing"
+  bio              : "Associate Professor, Nankai University"
+  location         : "Tianjin"
   googlescholar    : "https://scholar.google.com/citations?user=gKXu0XgAAAAJ"
-  email            : "yjdeng@bjut.edu.cn"
+  email            : "[EMAIL_ADDRESS]"
   employer         :
   pubmed           : 
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
