@@ -1,1 +1,3 @@
 DENG, Yongjian (邓勇舰) is currently an Associate Professor at the College of Artificial Intelligence, Nankai University. He received the B.Eng. degree from the China University of Petroleum (Beijing) in 2016, the M.Sc. degree from the University of Florida in 2018, and the Ph.D. degree from the City University of Hong Kong in 2021. From 2022 to 2024, he was also a Senior Research Associate with the Shenzhen Research Institute, City University of Hong Kong. His research interests include **Neuromorphic Vision**, **Computational Photography** and **Robot Vision**. He has published 30+ papers at the top international AI conferences/journals.
+
+Email: yjdeng [AT] nankai.edu.cn
