@@ -11,6 +11,10 @@
 <!-- % -----------2026------------- -->
 > **2026**
 
+45\. <a href="https://cvpr.thecvf.com/virtual/2026/poster/39316" target="_blank"><img src="https://img.shields.io/badge/CVPR-2026-red?style=flat-square"></a> Yuena Lin, Haichun Cai, Yi Shan, Hao Wei, **<u>Yongjian Deng</u>**, Zhen Yang, Gengyu Lyu &quot;**DF^ 2-VB: Dual-level Fuzzy Fusion with View-specific Boosting for Multi-view Multi-label Classification**&quot;. In *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)*. DOI:
+
+44\. <a href="https://ieeexplore.ieee.org/document/11367375" target="_blank"><img src="https://img.shields.io/badge/IEEE_TIP-2024-blue?style=flat-square"></a> Hao Chen, Haoran Zhou, Yunshu Zhang, Zheng Lin, **<u>Yongjian Deng</u>**, &quot;**Dissecting RGB-D Learning for Improved Multi-Modal Fusion**&quot;. In *IEEE Transactions on Image Processing (IEEE TIP)*. DOI: 
+
 43\. <a href="https://duckduckgo.com/?q=Event-Based+Motion+Deblurring+Using+Task-Oriented+3D+Gaussian+Event+Representations+site%3Aopenaccess.thecvf.com" target="_blank"><img src="https://img.shields.io/badge/CVPR-2026-red?style=flat-square"></a>	Shengdong Xue, Haoxiang Ma, Hao Chen, Zhen Yang, **<u>Yongjian Deng📧</u>**, &quot;**Event-Based Motion Deblurring Using Task-Oriented 3D Gaussian Event Representations**&quot;. In *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)*. DOI:
 
 42\. <a href="https://duckduckgo.com/?q=One-Shot+Flow%2C+Any-Time+Frame%3A+A+Bidirectional+Warping+Framework+for+Event-Based+Video+Frame+Interpolation+site%3Aopenaccess.thecvf.com" target="_blank"><img src="https://img.shields.io/badge/CVPR-2026-red?style=flat-square"></a>	Linghui Fu, Yuhan Liu, Hao Chen, Zhen Yang, **<u>Yongjian Deng📧</u>**, &quot;**One-Shot Flow, Any-Time Frame: A Bidirectional Warping Framework for Event-Based Video Frame Interpolation**&quot;. In *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)*. (**<font color=red>Highlight</font>**) DOI:
