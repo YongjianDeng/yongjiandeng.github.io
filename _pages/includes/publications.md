@@ -111,9 +111,9 @@
 
 > **2020**
 
-2. <a href="https://duckduckgo.com/?q=AMAE%3A+Adaptive+Motion-Agnostic+Encoder+for+Event-Based+Object+Classification+site%3Aieeexplore.ieee.org" target="_blank"><img src="https://img.shields.io/badge/IEEE_RAL-2020-blue?style=flat-square"></a>	**<u>Yongjian Deng</u>**, Y. Li and H. Chen, &quot;**AMAE: Adaptive Motion-Agnostic Encoder for Event-Based Object Classification**&quot;. In *IEEE Robotics and Automation Letters (IEEE RA-L) with IROS option*. DOI: https://doi.org/10.1109/lra.2020.3002480
+[2]<a href="https://duckduckgo.com/?q=AMAE%3A+Adaptive+Motion-Agnostic+Encoder+for+Event-Based+Object+Classification+site%3Aieeexplore.ieee.org" target="_blank"><img src="https://img.shields.io/badge/IEEE_RAL-2020-blue?style=flat-square"></a>	**<u>Yongjian Deng</u>**, Y. Li and H. Chen, &quot;**AMAE: Adaptive Motion-Agnostic Encoder for Event-Based Object Classification**&quot;. In *IEEE Robotics and Automation Letters (IEEE RA-L) with IROS option*. DOI: https://doi.org/10.1109/lra.2020.3002480
 
-1. <a href="https://duckduckgo.com/?q=RGBD+Salient+Object+Detection+via+Disentangled+Cross-Modal+Fusion+site%3Aieeexplore.ieee.org" target="_blank"><img src="https://img.shields.io/badge/IEEE_TIP-2020-blue?style=flat-square"></a>	H. Chen, **<u>Yongjian Deng</u>**, Y. Li, T. Hung, and G. Lin, &quot;**RGBD Salient Object Detection via Disentangled Cross-Modal Fusion**&quot;. In *IEEE Transactions on Image Processing (IEEE TIP)*. DOI: https://doi.org/10.1109/tip.2020.3014734
+[1]<a href="https://duckduckgo.com/?q=RGBD+Salient+Object+Detection+via+Disentangled+Cross-Modal+Fusion+site%3Aieeexplore.ieee.org" target="_blank"><img src="https://img.shields.io/badge/IEEE_TIP-2020-blue?style=flat-square"></a>	H. Chen, **<u>Yongjian Deng</u>**, Y. Li, T. Hung, and G. Lin, &quot;**RGBD Salient Object Detection via Disentangled Cross-Modal Fusion**&quot;. In *IEEE Transactions on Image Processing (IEEE TIP)*. DOI: https://doi.org/10.1109/tip.2020.3014734
 
 ## Preprints
 
